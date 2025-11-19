@@ -29,6 +29,14 @@ app.get("/", (req, res) => {
   });
 });
 
+// Random joke across all languages
+app.get("/jokes/random", (req, res) => {
+  const all = [...hindi, ...english, ...kannada];
+  const joke = all[Math.floor(Math.random() * all.length)];
+  res.json({ joke });
+});
+
+
 // Joke route by language
 app.get("/jokes/:lang", (req, res) => {
   const lang = req.params.lang.toLowerCase();
@@ -46,12 +54,6 @@ app.get("/jokes/:lang", (req, res) => {
   res.json({ joke });
 });
 
-// Random joke across all languages
-app.get("/jokes/random", (req, res) => {
-  const all = [...hindi, ...english, ...kannada];
-  const joke = all[Math.floor(Math.random() * all.length)];
-  res.json({ joke });
-});
 
 // Server listen
 const PORT = process.env.PORT || 3000;
