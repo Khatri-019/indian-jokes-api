@@ -14,7 +14,7 @@ Perfect for Discord/Telegram bots, fun apps, meme generators, and chat applicati
 
 ## 📡 Base URL
 
-Replace with your actual deployed URL:
+https://indian-jokes-api.onrender.com
 
 ---
 
@@ -36,9 +36,11 @@ Replace with your actual deployed URL:
 | Method | Endpoint | Description |
 | :--- | :--- | :--- |
 | `GET` | `/` | Get API status and info |
+| `GET` | `/jokes/random` | Get a random joke |
 | `GET` | `/jokes/english` | Get a random **English** joke |
 | `GET` | `/jokes/hindi` | Get a random **Hindi** joke |
 | `GET` | `/jokes/kannada` | Get a random **Kannada** joke |
+
 
 ---
 
