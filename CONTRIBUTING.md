@@ -16,7 +16,7 @@ This project relies on the community to grow its library of jokes and keep the h
 
 This is the most common contribution. Please follow these steps carefully to ensure the API doesn't break.
 
-1.  **Navigate to the `jokes` folder.**
+1.  **Navigate to the `jokes` folder.** 
 2.  **Choose your file:**
     * If adding to an existing language, open the corresponding file (e.g., `hindi.json`).
     * **✨ Want to add a new language?** You are welcome to do so! Simply create a new file named after the language (e.g., `tamil.json`, `marathi.json`, `punjabi.json`) inside the `jokes` folder.
