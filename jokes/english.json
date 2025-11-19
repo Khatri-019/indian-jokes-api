@@ -1,0 +1,5003 @@
+[
+  {
+    "id": 1,
+    "joke": "Indian parents' logic: If you are sick, it's because of your phone. If you are failing, it's because of your phone. If there is a global warming crisis, it's probably because of your phone.",
+    "language": "english"
+  },
+  {
+    "id": 2,
+    "joke": "Bangalore is the only city where you can leave for work on Monday and reach by Tuesday, and it's still considered a 'good commute'.",
+    "language": "english"
+  },
+  {
+    "id": 3,
+    "joke": "I told my Indian dad I wanted to be a stand-up comedian. He laughed. He said, 'Good, you've already got the first joke—your career.'",
+    "language": "english"
+  },
+  {
+    "id": 4,
+    "joke": "In India, '5 minutes' is not a measure of time. It is a measure of hope.",
+    "language": "english"
+  },
+  {
+    "id": 5,
+    "joke": "Indian weddings are basically a 3-day fashion show where the audience judges the food more than the couple.",
+    "language": "english"
+  },
+  {
+    "id": 6,
+    "joke": "My mom doesn't believe in 'expiration dates'. She believes in 'smell it and see if God calls you home'.",
+    "language": "english"
+  },
+  {
+    "id": 7,
+    "joke": "HR: 'What is your biggest weakness?' Me: 'I trust people easily.' HR: 'Okay, we will pay you 50 Lakhs per annum.' Me: 'Really??' HR: 'No.'",
+    "language": "english"
+  },
+  {
+    "id": 8,
+    "joke": "The strongest material on earth is not diamond. It is the Tupperware container your Indian mom sends food in. If you lose it, don't come home.",
+    "language": "english"
+  },
+  {
+    "id": 9,
+    "joke": "Bollywood movies be like: The hero fights 50 goons with one hand, but dies because his lover's scarf flew away in the wind.",
+    "language": "english"
+  },
+  {
+    "id": 10,
+    "joke": "In other countries, people check the weather app. In India, we check if the fan is throwing hot air or cold air.",
+    "language": "english"
+  },
+  {
+    "id": 11,
+    "joke": "I asked a rickshaw driver in Mumbai, 'Station jaoge?' (Will you go to the station?). He looked at me like I asked for his kidney.",
+    "language": "english"
+  },
+  {
+    "id": 12,
+    "joke": "Indian relatives at results time: 'Beta, how much did you score?' Me: '85%.' Relatives: 'Oh nice. Sharma ji's son got 98%. Is he writing exams on a different planet?'",
+    "language": "english"
+  },
+  {
+    "id": 13,
+    "joke": "Eating Pani Puri is a sport. You have to eat faster than the bhaiya can serve, while managing the spicy water dripping down your elbow.",
+    "language": "english"
+  },
+  {
+    "id": 14,
+    "joke": "Mechanical Engineers in India have a special talent. They can fix anything, except their own dating life.",
+    "language": "english"
+  },
+  {
+    "id": 15,
+    "joke": "The most dangerous phrase in an Indian office: 'Let's quickly sync up for 5 minutes.' (Narrator: It was not 5 minutes. It was 2 hours.)",
+    "language": "english"
+  },
+  {
+    "id": 16,
+    "joke": "Why do Indian moms wrap the TV remote in plastic? To preserve the buttons for the next generation.",
+    "language": "english"
+  },
+  {
+    "id": 17,
+    "joke": "You know you are middle class when your 'night wear' is just your 'day wear' but older and with holes.",
+    "language": "english"
+  },
+  {
+    "id": 18,
+    "joke": "Google Maps in India: 'Go straight for 200 meters.' Local Pan Shop Guy: 'Google is wrong, take that small gali, jump over the cow, and you will reach.' Trust the Pan Shop Guy.",
+    "language": "english"
+  },
+  {
+    "id": 19,
+    "joke": "Every Indian family has that one uncle who dances at the wedding like he is generating electricity for the venue.",
+    "language": "english"
+  },
+  {
+    "id": 20,
+    "joke": "I went to a cafe in South Bombay. I ordered a chai. They gave me a tea bag and hot water and charged 400 rupees. I felt like I paid for my own robbery.",
+    "language": "english"
+  },
+  {
+    "id": 21,
+    "joke": "Cricket in India is not a sport. It is an excuse to scream at the TV and advise Virat Kohli on his footwork from a sofa in Kanpur.",
+    "language": "english"
+  },
+  {
+    "id": 22,
+    "joke": "My dad's favorite hobby is switching off the fans and lights in rooms where nobody is sitting. He is basically a human sensor.",
+    "language": "english"
+  },
+  {
+    "id": 23,
+    "joke": "When an Indian shopkeeper says 'Fixed Price', it is actually a challenge. It means 'Let the games begin'.",
+    "language": "english"
+  },
+  {
+    "id": 24,
+    "joke": "Arranged marriage meetings are like job interviews, but instead of discussing Python skills, you discuss your ability to make round rotis.",
+    "language": "english"
+  },
+  {
+    "id": 25,
+    "joke": "Hostel Life: Where Maggi is breakfast, lunch, dinner, and sometimes currency.",
+    "language": "english"
+  },
+  {
+    "id": 26,
+    "joke": "If you drive in India, you don't need a horn. You need a horn that sounds like a train to get anyone to move.",
+    "language": "english"
+  },
+  {
+    "id": 27,
+    "joke": "Indian Mom: 'Who is this girl you are talking to?' Me: 'Just a friend.' Indian Mom: 'Okay, does she eat non-veg? What is her father's surname?'",
+    "language": "english"
+  },
+  {
+    "id": 28,
+    "joke": "The Indian education system is a race where if you are a fish, they judge you by your ability to climb a tree.",
+    "language": "english"
+  },
+  {
+    "id": 29,
+    "joke": "Whenever I feel useless, I look at the white crayon in the coloring box. Then I remember the traffic lights in India at 2 AM.",
+    "language": "english"
+  },
+  {
+    "id": 30,
+    "joke": "In India, we don't use measuring cups for cooking. We use 'andaaz' (estimation). If the food tastes bad, your 'andaaz' was wrong, not the recipe.",
+    "language": "english"
+  },
+  {
+    "id": 31,
+    "joke": "My gym trainer asked me to do a plank. I stayed in that position for 1 minute. It felt like the duration of a Hindi TV serial episode.",
+    "language": "english"
+  },
+  {
+    "id": 32,
+    "joke": "An Indian 'Good Night' is not a greeting. It is a process. It involves locking 3 doors, checking the gas cylinder, drinking water, and setting 5 alarms.",
+    "language": "english"
+  },
+  {
+    "id": 33,
+    "joke": "Goa trip planning: 10 friends agree. 8 friends confirm. 5 pay the advance. 2 actually reach Goa. And they meet their boss there.",
+    "language": "english"
+  },
+  {
+    "id": 34,
+    "joke": "Only in India will people stand in a queue for 2 hours for a temple darshan, but break the line to buy a train ticket.",
+    "language": "english"
+  },
+  {
+    "id": 35,
+    "joke": "Friend: 'Let's split the bill.' Me: 'Okay.' Friend: 'I had a salad, you had Butter Chicken, 4 Naans, and Lassi.' Me: 'We split EQUALLY. That is our culture.'",
+    "language": "english"
+  },
+  {
+    "id": 36,
+    "joke": "The scariest sound in the world isn't a gunshot. It's your mom calling your full name from the kitchen.",
+    "language": "english"
+  },
+  {
+    "id": 37,
+    "joke": "IT Company Notices: 'We are like a family.' Translation: 'We expect you to work on weekends for free.'",
+    "language": "english"
+  },
+  {
+    "id": 38,
+    "joke": "Doctors in India have handwriting that only chemists can read. It's their own encrypted blockchain communication.",
+    "language": "english"
+  },
+  {
+    "id": 39,
+    "joke": "I bought a DSLR camera. Now I am officially a 'Candid Wedding Photographer' according to my Instagram bio.",
+    "language": "english"
+  },
+  {
+    "id": 40,
+    "joke": "Indian trains: Where you book a berth for yourself, but share it with a family of four, two suitcases, and a box of ladoos.",
+    "language": "english"
+  },
+  {
+    "id": 41,
+    "joke": "Why did the programmer break up? Because she didn't get any output from the relationship.",
+    "language": "english"
+  },
+  {
+    "id": 42,
+    "joke": "If you want to know the true population of India, don't look at the census. Look at the General Compartment of a train.",
+    "language": "english"
+  },
+  {
+    "id": 43,
+    "joke": "My grandmother's solution to everything: 'Put some turmeric (haldi) on it.' Cut? Haldi. Cold? Haldi milk. Heartbreak? Haldi... no wait, for that she suggests marriage.",
+    "language": "english"
+  },
+  {
+    "id": 44,
+    "joke": "In India, 'I am on the way' usually means 'I am currently looking for my towel to take a bath'.",
+    "language": "english"
+  },
+  {
+    "id": 45,
+    "joke": "The only person who truly listens to you in India without interrupting is the Barber.",
+    "language": "english"
+  },
+  {
+    "id": 46,
+    "joke": "Online Shopping: *Adds item to cart*. *Sees shipping is Rs. 50*. *Removes item*. *Adds item worth Rs. 1000 to get free shipping*. Math.",
+    "language": "english"
+  },
+  {
+    "id": 47,
+    "joke": "Never trust an Indian who says 'Just one bite'. They will unhinge their jaw like a snake and swallow half your sandwich.",
+    "language": "english"
+  },
+  {
+    "id": 48,
+    "joke": "Electricity goes out. Entire Neighborhood: *Comes out to the balcony to check if others have power too.*",
+    "language": "english"
+  },
+  {
+    "id": 49,
+    "joke": "My boss asked me to think 'Out of the box'. I told him, 'Sir, with this salary, I can't even afford the box.'",
+    "language": "english"
+  },
+  {
+    "id": 50,
+    "joke": "CA Students: They don't have birthdays. They have 'Attempt 1', 'Attempt 2', and 'Attempt 3'.",
+    "language": "english"
+  },
+  {
+    "id": 51,
+    "joke": "The most ignored safety feature in an Indian car is the rear seatbelt. It exists only to get stuck in the seat fold.",
+    "language": "english"
+  },
+  {
+    "id": 52,
+    "joke": "Indian aunties at weddings are better than CCTV cameras. They know who is dating whom before the couple even knows.",
+    "language": "english"
+  },
+  {
+    "id": 53,
+    "joke": "Why do we say 'Chai-Wai' or 'Khana-Wana'? Because the second word adds flavor to the conversation.",
+    "language": "english"
+  },
+  {
+    "id": 54,
+    "joke": "I tried to follow a diet. Then my mom made Aloo Parathas with extra butter. The diet died a respectful death.",
+    "language": "english"
+  },
+  {
+    "id": 55,
+    "joke": "In Mumbai, you don't rent an apartment. You rent a matchbox and pay a palace's rent.",
+    "language": "english"
+  },
+  {
+    "id": 56,
+    "joke": "When an Indian dad says 'Ask your mother', he has already said No, but he wants to blame her.",
+    "language": "english"
+  },
+  {
+    "id": 57,
+    "joke": "Civil Engineers build bridges. Computer Engineers build 'bridges' between the front-end and back-end that collapse if you click a button too fast.",
+    "language": "english"
+  },
+  {
+    "id": 58,
+    "joke": "The most athletic thing I do is run back to my room after turning off the kitchen lights at 3 AM.",
+    "language": "english"
+  },
+  {
+    "id": 59,
+    "joke": "Sarcasm is just a fancy word for 'Taana marna' in an Indian household.",
+    "language": "english"
+  },
+  {
+    "id": 60,
+    "joke": "Life of a Developer: 99% Googling errors, 1% writing code that causes new errors.",
+    "language": "english"
+  },
+  {
+    "id": 61,
+    "joke": "Indian Manager: 'We follow a flat hierarchy here.' Translation: 'You will do the work of three people for the salary of one.'",
+    "language": "english"
+  },
+  {
+    "id": 62,
+    "joke": "I asked my mom for a gym membership. She handed me a broom and said, 'Clean the whole house, that is Crossfit.'",
+    "language": "english"
+  },
+  {
+    "id": 63,
+    "joke": "Bangalore Real Estate Agent: 'This is a spacious 2BHK.' Reality: If you sneeze in the bedroom, the person in the kitchen says 'Bless you.'",
+    "language": "english"
+  },
+  {
+    "id": 64,
+    "joke": "In India, we don't have 'lanes' on the highway. We have 'fill in the blanks'.",
+    "language": "english"
+  },
+  {
+    "id": 65,
+    "joke": "My dad's idea of a 'balanced diet' is holding a samosa in each hand.",
+    "language": "english"
+  },
+  {
+    "id": 66,
+    "joke": "Why do Indian serials repeat the same reaction shot 3 times? In case you missed the shock the first two times while blinking.",
+    "language": "english"
+  },
+  {
+    "id": 67,
+    "joke": "The most difficult breakup in India is not with a girlfriend. It is with your Bai (maid) when she asks for a Diwali bonus.",
+    "language": "english"
+  },
+  {
+    "id": 68,
+    "joke": "Engineering Vivas be like: External: 'Explain this code.' Me: 'Sir, this code is like God. Only He knows how it works.'",
+    "language": "english"
+  },
+  {
+    "id": 69,
+    "joke": "I tried to be vegan in India. My grandmother cried. She thought I joined a cult.",
+    "language": "english"
+  },
+  {
+    "id": 70,
+    "joke": "Train journeys in India: The only time you will share your life story, political views, and lunch with a complete stranger you will never see again.",
+    "language": "english"
+  },
+  {
+    "id": 71,
+    "joke": "Buying a car in India: 10% asking about the engine, 90% asking 'Kitna deti hai?' (What's the mileage?).",
+    "language": "english"
+  },
+  {
+    "id": 72,
+    "joke": "Indian Dads on WhatsApp: Sending 'Good Morning' flower images is their full-time job. Retirement is just a side hustle.",
+    "language": "english"
+  },
+  {
+    "id": 73,
+    "joke": "When an auto driver says 'Meter se chalenge' (We will go by meter), check for hidden cameras. It's a prank.",
+    "language": "english"
+  },
+  {
+    "id": 74,
+    "joke": "My mom's favorite threat: 'Wait until your father comes home.' My dad comes home and asks, 'What's for dinner?' Threat neutralized.",
+    "language": "english"
+  },
+  {
+    "id": 75,
+    "joke": "Corporate India: Where 'ASAP' means 'Drop everything you are doing and panic for no reason'.",
+    "language": "english"
+  },
+  {
+    "id": 76,
+    "joke": "I went to a wedding just for the food. The groom looked happy, but I was happier because the Paneer Tikka was fresh.",
+    "language": "english"
+  },
+  {
+    "id": 77,
+    "joke": "Indian winters: The fan is at speed 1 instead of speed 5. That's it. That's the winter.",
+    "language": "english"
+  },
+  {
+    "id": 78,
+    "joke": "Every Indian group project has one guy who does all the work, and one guy who says 'Bro, treat?' after the submission.",
+    "language": "english"
+  },
+  {
+    "id": 79,
+    "joke": "Guests leaving: 'Chalte hain' (We are leaving). Hosts: 'Arre, baitho na' (Oh sit for a while). *Process repeats for 45 minutes at the front door.*",
+    "language": "english"
+  },
+  {
+    "id": 80,
+    "joke": "In India, if you fall down, your friends don't help you up. They laugh first, take a photo, post it on Instagram, and THEN help you up.",
+    "language": "english"
+  },
+  {
+    "id": 81,
+    "joke": "The only time Indians follow a queue strictly is at the buffet counter when the Gulab Jamuns arrive.",
+    "language": "english"
+  },
+  {
+    "id": 82,
+    "joke": "My salary is credited. Me: 'I am rich!' *Pays rent, credit card, electricity bill*. Me: 'I am poor again.' Time elapsed: 5 minutes.",
+    "language": "english"
+  },
+  {
+    "id": 83,
+    "joke": "Indian mothers can detect a lie faster than a polygraph test. They just look at your face and say, 'Sach bol' (Tell the truth).",
+    "language": "english"
+  },
+  {
+    "id": 84,
+    "joke": "Why did the chicken cross the road in India? It didn't. It got stuck in traffic behind a cow.",
+    "language": "english"
+  },
+  {
+    "id": 85,
+    "joke": "Online classes in India: 'Sir, can you hear me?' 'Yes.' 'Sir, your video is lagging.' 'Okay.' 'Sir, the rooster is crowing in your background.'",
+    "language": "english"
+  },
+  {
+    "id": 86,
+    "joke": "A 2000 Rupee note is not money. It is a burden. No shopkeeper has change for it. It is basically a souvenir.",
+    "language": "english"
+  },
+  {
+    "id": 87,
+    "joke": "Indian street food rule: The dirtier the stall, the tastier the food. Hygiene is inversely proportional to flavor.",
+    "language": "english"
+  },
+  {
+    "id": 88,
+    "joke": "I told my relatives I am a freelancer. They told the neighbors I am unemployed.",
+    "language": "english"
+  },
+  {
+    "id": 89,
+    "joke": "Rain in London: 'Oh, lovely weather.' Rain in Mumbai: 'Train cancelled, road blocked, boat required.'",
+    "language": "english"
+  },
+  {
+    "id": 90,
+    "joke": "Vegetable shopping with Mom: She picks a tomato, inspects it like a diamond appraiser, and rejects it for a microscopic dent.",
+    "language": "english"
+  },
+  {
+    "id": 91,
+    "joke": "Cricket World Cup in India is the only time 1.4 billion people become expert coaches simultaneously.",
+    "language": "english"
+  },
+  {
+    "id": 92,
+    "joke": "Indian parents logic: If you wake up early (5 AM), all your life problems will magically disappear.",
+    "language": "english"
+  },
+  {
+    "id": 93,
+    "joke": "The 'S' in IoT stands for Security. The 'S' in Indian Traffic stands for Safety.",
+    "language": "english"
+  },
+  {
+    "id": 94,
+    "joke": "You know you are an adult in India when you get excited about buying new curtains instead of toys.",
+    "language": "english"
+  },
+  {
+    "id": 95,
+    "joke": "My friend ordered a salad at a Punjabi restaurant. The waiter brought him onions and green chilies. He wasn't wrong.",
+    "language": "english"
+  },
+  {
+    "id": 96,
+    "joke": "Driving in India is like playing a video game on Hard Mode, but you only have one life.",
+    "language": "english"
+  },
+  {
+    "id": 97,
+    "joke": "Indian hair oil ads promise you Rapunzel hair. Reality: You look like Snape from Harry Potter.",
+    "language": "english"
+  },
+  {
+    "id": 98,
+    "joke": "At an Indian wedding, the DJ plays loud music so you can't hear the relatives gossiping about the bride's dress.",
+    "language": "english"
+  },
+  {
+    "id": 99,
+    "joke": "I asked my boss for a raise. He gave me a 'Best Performer of the Month' certificate. I can't wait to pay my rent with this PDF.",
+    "language": "english"
+  },
+  {
+    "id": 100,
+    "joke": "The most common lie in India: 'Bas 2 minute mein pahunch raha hoon' (Reaching in just 2 minutes).",
+    "language": "english"
+  },
+  {
+    "id": 101,
+    "joke": "Indian Dad: 'When I was your age, I walked 10km to school.' Me: 'Dad, you also didn't have a backpack weighing 15kg.'",
+    "language": "english"
+  },
+  {
+    "id": 102,
+    "joke": "Whenever I wear ripped jeans, my grandma asks if she should stitch them for me. She thinks I am poor.",
+    "language": "english"
+  },
+  {
+    "id": 103,
+    "joke": "In India, we don't say 'I disagree'. We say 'Haan wo toh hai, par...' (Yes that is there, but...) and then destroy their entire argument.",
+    "language": "english"
+  },
+  {
+    "id": 104,
+    "joke": "A power cut in India is the only time the whole family sits in one room and actually talks to each other. Until the inverter kicks in.",
+    "language": "english"
+  },
+  {
+    "id": 105,
+    "joke": "Why are Indian aunties the best FBI agents? Because they know your salary before you get your offer letter.",
+    "language": "english"
+  },
+  {
+    "id": 106,
+    "joke": "My mom keeps plastic bags inside other plastic bags. It is the Russian Doll of the Indian kitchen.",
+    "language": "english"
+  },
+  {
+    "id": 107,
+    "joke": "Gym Instructor: 'No sugar, no oil, no carbs.' Me: 'So... water? You want me to live on water?'",
+    "language": "english"
+  },
+  {
+    "id": 108,
+    "joke": "The speed breaker on Indian roads is designed to break your back, not your speed.",
+    "language": "english"
+  },
+  {
+    "id": 109,
+    "joke": "Asking for directions: 'Go straight, take a left at the tree.' Reality: There are 5 trees. Which tree, uncle??",
+    "language": "english"
+  },
+  {
+    "id": 110,
+    "joke": "Indian weddings are the only place where you will see a 5-year-old dancing to an item song about heartbreak and alcohol.",
+    "language": "english"
+  },
+  {
+    "id": 111,
+    "joke": "Software Engineer's life: Monday to Friday: Debugging code. Saturday and Sunday: Debugging life.",
+    "language": "english"
+  },
+  {
+    "id": 112,
+    "joke": "My mom's reaction to me breaking a glass: 'You broke it! You are careless!' My mom breaking a glass: 'Who put this glass here? It's the glass's fault!'",
+    "language": "english"
+  },
+  {
+    "id": 113,
+    "joke": "In India, a 'Full Meal' is not complete until you have had 'Chaas' or 'Lassi' and regret eating that much.",
+    "language": "english"
+  },
+  {
+    "id": 114,
+    "joke": "The most confused person in the world is an Indian guy deciding whether to touch the feet of a relative who is only 2 years older than him.",
+    "language": "english"
+  },
+  {
+    "id": 115,
+    "joke": "I don't need an alarm clock. I have a maid who rings the doorbell at 6 AM like she is raiding the house.",
+    "language": "english"
+  },
+  {
+    "id": 116,
+    "joke": "Startups in Bangalore: 'We are pre-revenue, post-idea, and looking for a Series A funding to buy a coffee machine.'",
+    "language": "english"
+  },
+  {
+    "id": 117,
+    "joke": "Indian Cinema logic: The bomb timer is at 00:01 for 5 minutes while the hero gives a patriotic speech.",
+    "language": "english"
+  },
+  {
+    "id": 118,
+    "joke": "My neighbors are so nosy, they probably know what I had for lunch before my stomach does.",
+    "language": "english"
+  },
+  {
+    "id": 119,
+    "joke": "The 'Last Seen' feature on WhatsApp has caused more fights in Indian relationships than any actual issue.",
+    "language": "english"
+  },
+  {
+    "id": 120,
+    "joke": "When you open a packet of chips in a college classroom, you suddenly discover 50 new friends you didn't know you had.",
+    "language": "english"
+  },
+  {
+    "id": 121,
+    "joke": "Indian dog owners: 'Don't worry, he doesn't bite.' The dog: *Stares at you like you are a fresh leg of mutton.*",
+    "language": "english"
+  },
+  {
+    "id": 122,
+    "joke": "School farewell parties are the only day when the nerdy topper looks like a gangster and the backbencher looks like a gentleman.",
+    "language": "english"
+  },
+  {
+    "id": 123,
+    "joke": "If you buy a packet of biscuits in India, you have to eat the broken ones first. It is the law.",
+    "language": "english"
+  },
+  {
+    "id": 124,
+    "joke": "I told the shopkeeper 'Bhaiya, sahi daam lagao' (Brother, give a fair price). He reduced 5 rupees. I felt like the Wolf of Wall Street.",
+    "language": "english"
+  },
+  {
+    "id": 125,
+    "joke": "Indian Mom's remedy for depression: 'Wake up early and do Yoga.'",
+    "language": "english"
+  },
+  {
+    "id": 126,
+    "joke": "The most versatile word in Hindi is 'Accha'. It can mean 'Okay', 'Really?', 'Is that so?', 'I understand', or 'You are dead meat'.",
+    "language": "english"
+  },
+  {
+    "id": 127,
+    "joke": "Train bathroom mugs are chained to the wall because Indian Railways knows we will steal anything that isn't bolted down.",
+    "language": "english"
+  },
+  {
+    "id": 128,
+    "joke": "My parents want me to get married so they can have a grand party with their friends. I am just the event manager for their social life.",
+    "language": "english"
+  },
+  {
+    "id": 129,
+    "joke": "When an Indian person shakes their head side-to-side, it could mean Yes, No, Maybe, or 'I am processing your request'.",
+    "language": "english"
+  },
+  {
+    "id": 130,
+    "joke": "Visiting a historical monument in India: 10% History, 90% Names of couples carved into the walls.",
+    "language": "english"
+  },
+  {
+    "id": 131,
+    "joke": "I walked into a glass door. The security guard didn't ask if I was okay. He just laughed. This is true Indian hospitality.",
+    "language": "english"
+  },
+  {
+    "id": 132,
+    "joke": "Why do Indian Uncles stare at you on the train? They are downloading your soul.",
+    "language": "english"
+  },
+  {
+    "id": 133,
+    "joke": "Every Indian house has a 'Chair'. You cannot sit on it. It is covered with clothes that are not dirty enough for the wash but not clean enough for the cupboard.",
+    "language": "english"
+  },
+  {
+    "id": 134,
+    "joke": "When the waiter asks 'Normal water or bottled water?', my dad says 'Normal' with the pride of a man saving the family fortune.",
+    "language": "english"
+  },
+  {
+    "id": 135,
+    "joke": "The scariest thing about exams wasn't the paper. It was the moment the topper asked for an 'Extra Sheet'.",
+    "language": "english"
+  },
+  {
+    "id": 136,
+    "joke": "Indian traffic lights: Red = Stop. Yellow = Speed up. Green = Honk at the guy in front who hasn't moved in 0.01 seconds.",
+    "language": "english"
+  },
+  {
+    "id": 137,
+    "joke": "My diet plan: Eat healthy for 6 days. On the 7th day, eat enough Biryani to feed a small village.",
+    "language": "english"
+  },
+  {
+    "id": 138,
+    "joke": "Relatives: 'You have become so thin!' (Translation: You look terrible). Relatives: 'You have become healthy!' (Translation: You are fat). You cannot win.",
+    "language": "english"
+  },
+  {
+    "id": 139,
+    "joke": "The most intense negotiation in the world takes place between an Indian mom and a vegetable vendor over free coriander.",
+    "language": "english"
+  },
+  {
+    "id": 140,
+    "joke": "Using the horn in India is not a warning. It is a form of echolocation to let everyone know you exist.",
+    "language": "english"
+  },
+  {
+    "id": 141,
+    "joke": "I wore a suit to office. Everyone asked: 'Interview dene ja raha hai kya?' (Are you going for an interview?).",
+    "language": "english"
+  },
+  {
+    "id": 142,
+    "joke": "Indian parents will spend 20 Lakhs on a wedding but will argue about a 20 rupee parking fee at the venue.",
+    "language": "english"
+  },
+  {
+    "id": 143,
+    "joke": "My phone battery is low. My anxiety is high. The Indian need to be reachable 24/7 is a curse.",
+    "language": "english"
+  },
+  {
+    "id": 144,
+    "joke": "Why is it called a 'Guest Room'? In my house, it's the 'Store Room' where we hide the junk when guests come.",
+    "language": "english"
+  },
+  {
+    "id": 145,
+    "joke": "If you want to see real patience, watch an Indian dad teaching his wife how to use Facebook.",
+    "language": "english"
+  },
+  {
+    "id": 146,
+    "joke": "A 'Love Marriage' in India is innocent until proven guilty by the horoscope.",
+    "language": "english"
+  },
+  {
+    "id": 147,
+    "joke": "The phrase 'Do one thing' (Ek kaam kar) is the start of every solution in India.",
+    "language": "english"
+  },
+  {
+    "id": 148,
+    "joke": "I don't have a therapist. I have a Chai Tapri where the tea seller listens to my problems.",
+    "language": "english"
+  },
+  {
+    "id": 149,
+    "joke": "Metro Announcement: 'Please mind the gap.' Indian Passengers: 'Gap? What gap? Jump!'",
+    "language": "english"
+  },
+  {
+    "id": 150,
+    "joke": "Online reviews in India: 'Product is good, delivery was late. 1 Star.'",
+    "language": "english"
+  },
+  {
+    "id": 151,
+    "joke": "My dad refused to buy Netflix. He said, 'Why pay? Just look out the window, enough drama is happening.'",
+    "language": "english"
+  },
+  {
+    "id": 152,
+    "joke": "The most stressful part of travel is not the flight. It is making sure the luggage weight is exactly 15.0 kg.",
+    "language": "english"
+  },
+  {
+    "id": 153,
+    "joke": "Indian Teachers: 'Is this a fish market?' Indian Fish Market: Actually quieter than my classroom.",
+    "language": "english"
+  },
+  {
+    "id": 154,
+    "joke": "Dating in India involves three people: You, your partner, and the fear of a relative spotting you.",
+    "language": "english"
+  },
+  {
+    "id": 155,
+    "joke": "I told my mom I'm depressed. She said, 'It's because you don't put oil in your hair.' Problem solved.",
+    "language": "english"
+  },
+  {
+    "id": 156,
+    "joke": "The universal remote control repair method in India: Slap it against your palm three times. It works.",
+    "language": "english"
+  },
+  {
+    "id": 157,
+    "joke": "My CA asked for my investment proof. I sent him a photo of my degree. He didn't laugh.",
+    "language": "english"
+  },
+  {
+    "id": 158,
+    "joke": "Indian soap operas: The main character dies, comes back as a plastic surgeon, and marries her own grandson. Logic left the chat.",
+    "language": "english"
+  },
+  {
+    "id": 159,
+    "joke": "You know the food is spicy when you stop talking and start making 'hissing' sounds, but you keep eating.",
+    "language": "english"
+  },
+  {
+    "id": 160,
+    "joke": "Weekend plans: Expectations - Party in Goa. Reality - Sleeping until 2 PM and eating Maggi.",
+    "language": "english"
+  },
+  {
+    "id": 161,
+    "joke": "Indian Corporate Email Etiquette: 'Please do the needful.' Translation: 'I have no idea how to do this, so you do it.'",
+    "language": "english"
+  },
+  {
+    "id": 162,
+    "joke": "Booking a Tatkal ticket on IRCTC is the closest an Indian civilian gets to participating in the Olympics.",
+    "language": "english"
+  },
+  {
+    "id": 163,
+    "joke": "My mom puts a cover on the sofa, a cover on the washing machine, and a cover on the TV remote. I'm afraid if I sit still too long, she will put a cover on me.",
+    "language": "english"
+  },
+  {
+    "id": 164,
+    "joke": "In India, we don't use GPS coordinates. We use landmarks like 'Turn left after the shop with the sleeping dog'.",
+    "language": "english"
+  },
+  {
+    "id": 165,
+    "joke": "Why did the startup founder break up? Because his relationship runway dried up and he couldn't pivot fast enough.",
+    "language": "english"
+  },
+  {
+    "id": 166,
+    "joke": "Indian relatives don't knock. They just walk in and ask 'Padhai kaisi chal rahi hai?' (How is your studying going?) to ruin your mood instantly.",
+    "language": "english"
+  },
+  {
+    "id": 167,
+    "joke": "The most trusted currency in India is not Bitcoin or Gold. It is the 'Chutta' (Loose change) that the shopkeeper owes you.",
+    "language": "english"
+  },
+  {
+    "id": 168,
+    "joke": "I tried to act cool in front of my crush. I tripped. My friend shouted 'Gir gaya market!' (Market fell down!). Romance died.",
+    "language": "english"
+  },
+  {
+    "id": 169,
+    "joke": "Diwali Cleaning is not a chore. It is an archaeological excavation where you find items from 2005 that you thought were stolen.",
+    "language": "english"
+  },
+  {
+    "id": 170,
+    "joke": "Eating Momos without the spicy red chutney is a crime under the Indian Penal Code of Taste.",
+    "language": "english"
+  },
+  {
+    "id": 171,
+    "joke": "An Indian dad will wear a vest with holes at home but will judge you for buying distressed jeans for Rs. 3000.",
+    "language": "english"
+  },
+  {
+    "id": 172,
+    "joke": "Software Engineers don't sleep. They just go into 'Standby Mode' until the next stand-up meeting.",
+    "language": "english"
+  },
+  {
+    "id": 173,
+    "joke": "I ordered a 'Veg Biryani'. The waiter corrected me: 'Sir, that is called Pulao with an identity crisis.'",
+    "language": "english"
+  },
+  {
+    "id": 174,
+    "joke": "Uber Driver: 'Where is the drop location?' Me: 'It is literally on the map.' Driver: 'Cancel kar do.' (Cancel it).",
+    "language": "english"
+  },
+  {
+    "id": 175,
+    "joke": "Indian cricket fans are bipolar. One day: 'Kohli is God!' Next day: 'Sell him on OLX!'",
+    "language": "english"
+  },
+  {
+    "id": 176,
+    "joke": "When a guest says, 'Bas, aur nahi' (No more food), an Indian host hears, 'Please force-feed me three more laddoos.'",
+    "language": "english"
+  },
+  {
+    "id": 177,
+    "joke": "My bank balance is so low, the ATM asked me if I need a loan for the receipt paper.",
+    "language": "english"
+  },
+  {
+    "id": 178,
+    "joke": "The 'Fragile' sticker on luggage in Indian airports is interpreted by baggage handlers as 'Throw with maximum force'.",
+    "language": "english"
+  },
+  {
+    "id": 179,
+    "joke": "During exams, looking at the ceiling helps. Not because the answers are there, but because you are praying to 33 million gods simultaneously.",
+    "language": "english"
+  },
+  {
+    "id": 180,
+    "joke": "Indian Moms and WhatsApp forwards: A love story deeper than Titanic.",
+    "language": "english"
+  },
+  {
+    "id": 181,
+    "joke": "I told my dad I want to travel the world. He said, 'Go to the terrace, walk two rounds. World tour done.'",
+    "language": "english"
+  },
+  {
+    "id": 182,
+    "joke": "Why do Indian men have big bellies? It's not fat. It's a storage unit for all the 'Stress' and 'Chai'.",
+    "language": "english"
+  },
+  {
+    "id": 183,
+    "joke": "The loudest sound in the universe: An Indian student dropping a steel tiffin box in a silent classroom.",
+    "language": "english"
+  },
+  {
+    "id": 184,
+    "joke": "In India, if the AC is set to 24 degrees, it's summer. If it's set to 23 degrees, we need a blanket. There is no in-between.",
+    "language": "english"
+  },
+  {
+    "id": 185,
+    "joke": "My manager said, 'We work hard, play hard.' I didn't know 'Play hard' meant playing with my mental health.",
+    "language": "english"
+  },
+  {
+    "id": 186,
+    "joke": "Holi in movies: Beautiful colors, slow motion. Holi in reality: You look like a purple alien and the color stays for 3 weeks.",
+    "language": "english"
+  },
+  {
+    "id": 187,
+    "joke": "The struggle of online payments: 'Transaction Failed.' Money deducted. Me: 'Goodbye cruel world.' Money refunded. Me: 'I love my life.'",
+    "language": "english"
+  },
+  {
+    "id": 188,
+    "joke": "Indian siblings don't say sorry. They just ask, 'Do you want Maggi?' and the war is over.",
+    "language": "english"
+  },
+  {
+    "id": 189,
+    "joke": "Why did the Indian ghost fail to scare anyone? Because he came at 2 PM and everyone was taking an afternoon nap.",
+    "language": "english"
+  },
+  {
+    "id": 190,
+    "joke": "The best alarm clock is not on your phone. It is the sound of the water motor overflowing.",
+    "language": "english"
+  },
+  {
+    "id": 191,
+    "joke": "Arranged marriage criteria: 'Girl should be modern but homely.' Translation: She should code in Python but also make round rotis.",
+    "language": "english"
+  },
+  {
+    "id": 192,
+    "joke": "Going to the gym in January is like entering a General Compartment train. No space to stand, just sweat and regret.",
+    "language": "english"
+  },
+  {
+    "id": 193,
+    "joke": "My grandmother thinks 'Cloud Storage' means keeping photos in a plastic bag on the top shelf.",
+    "language": "english"
+  },
+  {
+    "id": 194,
+    "joke": "Every Indian dad has a specific 'Accountant Face' he makes when reading the restaurant bill.",
+    "language": "english"
+  },
+  {
+    "id": 195,
+    "joke": "Friendship in India is sharing a single cigarette. Brotherhood is paying for it.",
+    "language": "english"
+  },
+  {
+    "id": 196,
+    "joke": "I have a degree in Engineering and a Master's in 'Forwarding Memes'. Guess which one I use more?",
+    "language": "english"
+  },
+  {
+    "id": 197,
+    "joke": "Indian Road Rules: The bigger vehicle always has the right of way. Even if the smaller vehicle is an ambulance.",
+    "language": "english"
+  },
+  {
+    "id": 198,
+    "joke": "The definition of 'Infinity': The length of a saree when you are trying to fold it alone.",
+    "language": "english"
+  },
+  {
+    "id": 199,
+    "joke": "Why are we obsessed with 'Fair & Lovely'? Because we think melanin is the root cause of unemployment.",
+    "language": "english"
+  },
+  {
+    "id": 200,
+    "joke": "My mom cooks for 4 people but the quantity is enough to feed the Pandavas during their exile.",
+    "language": "english"
+  },
+  {
+    "id": 201,
+    "joke": "In India, you don't choose your career. Your marks in 10th standard choose it for you.",
+    "language": "english"
+  },
+  {
+    "id": 202,
+    "joke": "The most polite fight in the world: Two Indians arguing over who will pay the bill. 'No, I will pay!' 'Are keep quiet, I will pay!'",
+    "language": "english"
+  },
+  {
+    "id": 203,
+    "joke": "Whenever I see a 'Buy 1 Get 1 Free' offer, my brain automatically buys things I don't need. I now have 4 liters of soy sauce.",
+    "language": "english"
+  },
+  {
+    "id": 204,
+    "joke": "The 'check engine' light in my car has been on for 2 years. It is now part of the ambient lighting.",
+    "language": "english"
+  },
+  {
+    "id": 205,
+    "joke": "Indian Parents' logic on mental health: 'Stop using the phone and eat almonds (badam). You will be fine.'",
+    "language": "english"
+  },
+  {
+    "id": 206,
+    "joke": "I asked for a 'Hair Spa' at a local salon. The guy just washed my hair with extra shampoo and massaged my skull until I forgot my name.",
+    "language": "english"
+  },
+  {
+    "id": 207,
+    "joke": "Why did the boy fail the interview? He called the interviewer 'Uncle' by mistake.",
+    "language": "english"
+  },
+  {
+    "id": 208,
+    "joke": "Indian tea stalls (Chai Tapris) are the original LinkedIn. You can find a job, a house, and a spouse just by talking to people there.",
+    "language": "english"
+  },
+  {
+    "id": 209,
+    "joke": "The scariest text message: 'Bank Account XXXX debited for Rs 10,000' when you haven't bought anything.",
+    "language": "english"
+  },
+  {
+    "id": 210,
+    "joke": "My dad's favorite tech support solution: 'Hit it two times. If it doesn't work, hit it harder.'",
+    "language": "english"
+  },
+  {
+    "id": 211,
+    "joke": "In India, 'Spicy' has levels: Mild, Medium, Hot, and 'Call the Fire Brigade'.",
+    "language": "english"
+  },
+  {
+    "id": 212,
+    "joke": "Nothing unites India more than hating the third umpire's decision.",
+    "language": "english"
+  },
+  {
+    "id": 213,
+    "joke": "I updated my resume. My skills include: Excel, PowerPoint, and pretending to listen during Zoom calls.",
+    "language": "english"
+  },
+  {
+    "id": 214,
+    "joke": "Why do Indians love bargaining? It's not about the money. It's about the victory.",
+    "language": "english"
+  },
+  {
+    "id": 215,
+    "joke": "My mom's 'light dinner' concept: 4 Rotis, Dal, Sabzi, Rice, and Kheer. 'Eat, you look weak.'",
+    "language": "english"
+  },
+  {
+    "id": 216,
+    "joke": "The pressure cooker whistle is the background music of every Indian childhood.",
+    "language": "english"
+  },
+  {
+    "id": 217,
+    "joke": "Being a middle child in an Indian family is like being the 'Terms and Conditions' page. Everyone ignores you.",
+    "language": "english"
+  },
+  {
+    "id": 218,
+    "joke": "Startups pitching to VCs: 'We are the Uber for Samosas.' VCs: 'Here, take 10 Million Dollars.'",
+    "language": "english"
+  },
+  {
+    "id": 219,
+    "joke": "I saw a sign 'No Parking'. I parked right under it. This is how we rebel.",
+    "language": "english"
+  },
+  {
+    "id": 220,
+    "joke": "The sheer panic when the cook (maid) doesn't show up on Monday morning is worse than a stock market crash.",
+    "language": "english"
+  },
+  {
+    "id": 221,
+    "joke": "Indian serials have more plot twists in one episode than Game of Thrones had in 8 seasons.",
+    "language": "english"
+  },
+  {
+    "id": 222,
+    "joke": "My cousin got full marks in Maths. Now he is the family benchmark. I am the error margin.",
+    "language": "english"
+  },
+  {
+    "id": 223,
+    "joke": "Why did the Indian traffic police stop the cow? He didn't. The cow stopped the police.",
+    "language": "english"
+  },
+  {
+    "id": 224,
+    "joke": "A 'Bachelor Pad' in India usually means a room with one mattress, two laptops, and a mountain of Maggi packets.",
+    "language": "english"
+  },
+  {
+    "id": 225,
+    "joke": "Wedding Photographer: 'Smile please!' Bride and Groom: *Thinking about the loan they took for this party*.",
+    "language": "english"
+  },
+  {
+    "id": 226,
+    "joke": "My dad holding the phone at arm's length and squinting is the universal symbol for 'I refused to get glasses'.",
+    "language": "english"
+  },
+  {
+    "id": 227,
+    "joke": "In India, we don't have 'garbage bins' on the street. We have 'that corner where everyone throws stuff'.",
+    "language": "english"
+  },
+  {
+    "id": 228,
+    "joke": "The only person who can scold a Prime Minister in India is his mother.",
+    "language": "english"
+  },
+  {
+    "id": 229,
+    "joke": "Group Project Roles: 1. The Researcher. 2. The Writer. 3. The Presenter. 4. The Guy who brings chips and nods.",
+    "language": "english"
+  },
+  {
+    "id": 230,
+    "joke": "Every time I try to save money, a wedding invitation arrives. It is a conspiracy.",
+    "language": "english"
+  },
+  {
+    "id": 231,
+    "joke": "Indian moms don't need a weather app. They look at the sky and say 'It will rain', and nature obeys.",
+    "language": "english"
+  },
+  {
+    "id": 232,
+    "joke": "The most dangerous place to stand in India is near the door of a Mumbai Local train during rush hour.",
+    "language": "english"
+  },
+  {
+    "id": 233,
+    "joke": "I asked the auto driver for change (chutta). He laughed and drove away. I think that was a 'No'.",
+    "language": "english"
+  },
+  {
+    "id": 234,
+    "joke": "Why did the software engineer go broke? Because he used all his cache.",
+    "language": "english"
+  },
+  {
+    "id": 235,
+    "joke": "Relative: 'Beta, when are you giving us good news?' (asking about baby). Me: 'I just got a promotion.' Relative: 'Not that news.'",
+    "language": "english"
+  },
+  {
+    "id": 236,
+    "joke": "In India, you are not a good driver until you can drive a car, eat a samosa, and talk on the phone simultaneously.",
+    "language": "english"
+  },
+  {
+    "id": 237,
+    "joke": "My internet speed is so slow, by the time the video loads, the trend is over.",
+    "language": "english"
+  },
+  {
+    "id": 238,
+    "joke": "The biggest lie in Indian colleges: 'Attendance is mandatory.'",
+    "language": "english"
+  },
+  {
+    "id": 239,
+    "joke": "Indian Dads love news channels. They don't watch the news; they judge the anchors.",
+    "language": "english"
+  },
+  {
+    "id": 240,
+    "joke": "I tried to explain 'Bitcoin' to my grandfather. He asked if he could keep it in the bank locker. I gave up.",
+    "language": "english"
+  },
+  {
+    "id": 241,
+    "joke": "The 'Sales' section in a mall is a war zone. Indian aunties will tackle you for a 50% off kurti.",
+    "language": "english"
+  },
+  {
+    "id": 242,
+    "joke": "Why is 'Home Science' a subject? My mom has a Ph.D. in it without ever attending a class.",
+    "language": "english"
+  },
+  {
+    "id": 243,
+    "joke": "The smell of wet mud (Petrichor) is great, but the smell of frying pakoras in the rain is superior.",
+    "language": "english"
+  },
+  {
+    "id": 244,
+    "joke": "Indian ATM guards have the most boring job in the world. They just sit there and judge your bank balance.",
+    "language": "english"
+  },
+  {
+    "id": 245,
+    "joke": "If you didn't struggle with a geometry box compass that always slipped, did you even go to school in India?",
+    "language": "english"
+  },
+  {
+    "id": 246,
+    "joke": "The most expensive thing in an Indian household is the guest crockery set that is never used.",
+    "language": "english"
+  },
+  {
+    "id": 247,
+    "joke": "My boss says 'Feel free to ask questions'. I asked for a hike. He stopped feeling free.",
+    "language": "english"
+  },
+  {
+    "id": 248,
+    "joke": "Why do we have 500 channels on TV but my dad only watches 'Sooryavansham' on repeat?",
+    "language": "english"
+  },
+  {
+    "id": 249,
+    "joke": "Dating apps in India: 90% men, 5% bots, 5% women wondering why they installed the app.",
+    "language": "english"
+  },
+  {
+    "id": 250,
+    "joke": "I told my mom I'm going on a diet. She made Gajar Ka Halwa. She is the sabotager.",
+    "language": "english"
+  },
+  {
+    "id": 251,
+    "joke": "The only time I run is when I see the bus leaving the stop.",
+    "language": "english"
+  },
+  {
+    "id": 252,
+    "joke": "Indian mechanics don't use manuals. They use 'Jugaad'. And it works better than the manual.",
+    "language": "english"
+  },
+  {
+    "id": 253,
+    "joke": "My productivity peaks at 11 PM. My sleepiness peaks at 9 AM. My life is a timezone error.",
+    "language": "english"
+  },
+  {
+    "id": 254,
+    "joke": "The 'U-Turn' in India is not a turn. It is a leap of faith into oncoming traffic.",
+    "language": "english"
+  },
+  {
+    "id": 255,
+    "joke": "Why did the Sharmaji ka beta cross the road? To get to the coaching center before you.",
+    "language": "english"
+  },
+  {
+    "id": 256,
+    "joke": "The most confusing instruction: 'Put the cooker on sim'. Is 'sim' low flame or medium flame? The debate continues.",
+    "language": "english"
+  },
+  {
+    "id": 257,
+    "joke": "I took a sick leave. My boss saw my Instagram story of me eating street food. Now I am actually sick with fear.",
+    "language": "english"
+  },
+  {
+    "id": 258,
+    "joke": "Indian truck slogans: 'Horn OK Please'. 'Buri nazar wale tera muh kaala' (Evil eye owner, your face is black). Philosophy on wheels.",
+    "language": "english"
+  },
+  {
+    "id": 259,
+    "joke": "Why is the remote always under the sofa cushion? It's a law of physics in India.",
+    "language": "english"
+  },
+  {
+    "id": 260,
+    "joke": "The greatest mystery of Indian kitchens: How does the sugar container always end up with a dal spoon in it?",
+    "language": "english"
+  },
+  {
+    "id": 261,
+    "joke": "Indian summer rule: If the AC is on, the door must be closed within 0.02 seconds, or your dad will scream 'Are you cooling the whole neighborhood?'",
+    "language": "english"
+  },
+  {
+    "id": 262,
+    "joke": "Going to an SBI bank branch is a spiritual experience. You learn patience, you learn to wait, and you learn that it is always 'Lunch Time'.",
+    "language": "english"
+  },
+  {
+    "id": 263,
+    "joke": "My mom doesn't trust the vacuum cleaner. She uses it, then uses a 'Jhaadu' (broom) afterwards just to be sure.",
+    "language": "english"
+  },
+  {
+    "id": 264,
+    "joke": "The most terrifying sentence in an Indian college: 'External examiner is in a bad mood today.'",
+    "language": "english"
+  },
+  {
+    "id": 265,
+    "joke": "I asked a Pani Puri wallah to make it spicy. I regretted it immediately. I saw my ancestors for a brief moment.",
+    "language": "english"
+  },
+  {
+    "id": 266,
+    "joke": "Why do Indian uncles clap so loudly in the park at 6 AM? Are they killing mosquitoes or applauding the sun for rising?",
+    "language": "english"
+  },
+  {
+    "id": 267,
+    "joke": "A 'Group Study' in India is just 4 friends eating chips and gossiping about the 5th friend who didn't come.",
+    "language": "english"
+  },
+  {
+    "id": 268,
+    "joke": "My dad bought a Smart TV. Now he watches Doordarshan in 4K resolution.",
+    "language": "english"
+  },
+  {
+    "id": 269,
+    "joke": "The only thing faster than light is a rumor spreading in an Indian joint family.",
+    "language": "english"
+  },
+  {
+    "id": 270,
+    "joke": "In India, if you don't have a 'Plastic bag full of other plastic bags' in your kitchen, are you even a citizen?",
+    "language": "english"
+  },
+  {
+    "id": 271,
+    "joke": "I told my auto driver to follow the GPS. He took a shortcut through a field, a construction site, and someone's living room.",
+    "language": "english"
+  },
+  {
+    "id": 272,
+    "joke": "Indian wedding food logic: Eat 5 plates of starters. Then complain that you are too full for the main course. Then eat dessert anyway.",
+    "language": "english"
+  },
+  {
+    "id": 273,
+    "joke": "The most useless button in the world is the 'Door Close' button in an Indian elevator. We just press it aggressively to vent frustration.",
+    "language": "english"
+  },
+  {
+    "id": 274,
+    "joke": "My mom watching Masterchef: 'Look at that plating!' Also Mom: Serves me Dal Rice mixed together in a steel bowl.",
+    "language": "english"
+  },
+  {
+    "id": 275,
+    "joke": "Why do we call it a 'Guest House'? In reality, it is just a room where we dump all the extra mattresses and broken chairs.",
+    "language": "english"
+  },
+  {
+    "id": 276,
+    "joke": "Indian Dad on a road trip: 'We will reach in 2 hours.' (It is a 6-hour journey). He is manifesting, not estimating.",
+    "language": "english"
+  },
+  {
+    "id": 277,
+    "joke": "I tried to explain 'Privacy' to my neighbors. They asked which channel number that is on Tata Sky.",
+    "language": "english"
+  },
+  {
+    "id": 278,
+    "joke": "The 'Side Lower' berth in a train is not a seat. It is a throne. If you get it, you are the King of the journey.",
+    "language": "english"
+  },
+  {
+    "id": 279,
+    "joke": "Online delivery guy calls: 'Sir, I am at the location.' Me: 'I can't see you.' Guy: 'Sir, I am at the back gate, near the cow.' Ah, precise location.",
+    "language": "english"
+  },
+  {
+    "id": 280,
+    "joke": "Indian parents' solution to a bad hair day: 'Put oil. Champi time.' Now you have a bad hair day and you look like a frying pan.",
+    "language": "english"
+  },
+  {
+    "id": 281,
+    "joke": "I have trust issues because of 'Butter Cookies' tins that actually contain sewing kits.",
+    "language": "english"
+  },
+  {
+    "id": 282,
+    "joke": "Engineering Final Year Project: 10% Innovation, 90% Copy-pasting form GitHub and praying the external doesn't notice.",
+    "language": "english"
+  },
+  {
+    "id": 283,
+    "joke": "My gym membership is basically a donation to the fitness industry.",
+    "language": "english"
+  },
+  {
+    "id": 284,
+    "joke": "In India, we don't say 'Excuse me'. We just gently push the person and say 'Thoda side please'.",
+    "language": "english"
+  },
+  {
+    "id": 285,
+    "joke": "The struggle of wearing glasses in India: Taking them off to eat hot sambar because the steam blinds you instantly.",
+    "language": "english"
+  },
+  {
+    "id": 286,
+    "joke": "Why do Indian moms ask 'Kya khaya?' (What did you eat?) every time you call? It's their way of checking if you are still alive.",
+    "language": "english"
+  },
+  {
+    "id": 287,
+    "joke": "I saw a guy wearing a helmet while walking. I asked why. He said, 'My wife is throwing things at me today.' Safety first.",
+    "language": "english"
+  },
+  {
+    "id": 288,
+    "joke": "Indian 'Work From Home' is 10% working and 90% shouting 'Mummy, cooker ki city baj gayi band kar do!' (Mom, turn off the cooker!).",
+    "language": "english"
+  },
+  {
+    "id": 289,
+    "joke": "The level of negotiation skills required to buy clothes in Sarojini Nagar should be taught in MBA schools.",
+    "language": "english"
+  },
+  {
+    "id": 290,
+    "joke": "At a buffet, Indians don't eat according to appetite. They eat according to the price of the ticket. 'I paid 800, I will eat 800 worth.'",
+    "language": "english"
+  },
+  {
+    "id": 291,
+    "joke": "My dad treats the car AC like it consumes rocket fuel. He turns it off at every red light.",
+    "language": "english"
+  },
+  {
+    "id": 292,
+    "joke": "The scariest thing to hear in a movie theater: A baby crying. The second scariest: Someone explaining the plot loudly to their grandmother.",
+    "language": "english"
+  },
+  {
+    "id": 293,
+    "joke": "I asked my boss for a 'mental health day'. He asked if I wanted to work from home. That's not how it works, Sir.",
+    "language": "english"
+  },
+  {
+    "id": 294,
+    "joke": "Indian street dogs are smarter than traffic police. They know exactly when the signal will turn green.",
+    "language": "english"
+  },
+  {
+    "id": 295,
+    "joke": "Why do we say 'Light aa gayi' (Light has come) when power returns? Because for those 10 minutes of darkness, we returned to the Stone Age.",
+    "language": "english"
+  },
+  {
+    "id": 296,
+    "joke": "The most difficult task in Indian households: Deciding what to cook for dinner. It is a daily parliamentary debate.",
+    "language": "english"
+  },
+  {
+    "id": 297,
+    "joke": "My cousin is an 'Influencer'. Her influence is limited to making me take 500 photos of her until she likes one.",
+    "language": "english"
+  },
+  {
+    "id": 298,
+    "joke": "In India, a 'Signal' is just a suggestion. If there is no policeman, Red means 'Go carefully'.",
+    "language": "english"
+  },
+  {
+    "id": 299,
+    "joke": "The joy of finding a 100 rupee note in an old pair of jeans is greater than getting a salary hike.",
+    "language": "english"
+  },
+  {
+    "id": 300,
+    "joke": "Indian relatives will ask 'Beta, what is your package?' but will never ask 'Beta, are you happy?'",
+    "language": "english"
+  },
+  {
+    "id": 301,
+    "joke": "I tried to make Roti. It looked like a map of Australia. My mom said, 'At least you are global.'",
+    "language": "english"
+  },
+  {
+    "id": 302,
+    "joke": "Why do Indian soaps have so much background music? To tell you how to feel because the actors have only one expression.",
+    "language": "english"
+  },
+  {
+    "id": 303,
+    "joke": "The 'General Compartment' of a train smells of 50 different types of pickles and shared humanity.",
+    "language": "english"
+  },
+  {
+    "id": 304,
+    "joke": "I told my dad I want to be a writer. He said, 'Write the grocery list first, then we will see.'",
+    "language": "english"
+  },
+  {
+    "id": 305,
+    "joke": "Indian Winters: When you wear a Monkey Cap and look like a burglar inside your own house.",
+    "language": "english"
+  },
+  {
+    "id": 306,
+    "joke": "The most aggressive people on earth are not wrestlers. They are people trying to board a Virar Fast Local train.",
+    "language": "english"
+  },
+  {
+    "id": 307,
+    "joke": "My mom's logic: If I don't pick up the phone in 3 rings, I have definitely been kidnapped.",
+    "language": "english"
+  },
+  {
+    "id": 308,
+    "joke": "Why did the Indian guy put his phone in the fridge? Because he wanted to have cool conversations.",
+    "language": "english"
+  },
+  {
+    "id": 309,
+    "joke": "The real test of friendship is not lending money. It is sharing your Hotspot data when the daily limit is reached.",
+    "language": "english"
+  },
+  {
+    "id": 310,
+    "joke": "In India, 'Unlimited Thali' is a challenge. You eat until the waiter looks at you with concern.",
+    "language": "english"
+  },
+  {
+    "id": 311,
+    "joke": "My neighbors have a new dog. It barks in a rhythm. I think it is trying to communicate in Morse code.",
+    "language": "english"
+  },
+  {
+    "id": 312,
+    "joke": "Indian weddings have a 'Reception'. It is basically a line where you stand for 45 minutes to hand over an envelope and smile for 2 seconds.",
+    "language": "english"
+  },
+  {
+    "id": 313,
+    "joke": "The 'Middle Class' dream: To have a house big enough that the kitchen smells don't reach the bedroom.",
+    "language": "english"
+  },
+  {
+    "id": 314,
+    "joke": "I bought a trimmer. My beard looks same. But my bathroom sink looks like a Chewbacca exploded.",
+    "language": "english"
+  },
+  {
+    "id": 315,
+    "joke": "Why are Indian horror movies funny? Because the ghost always wears a white saree and has perfectly done makeup.",
+    "language": "english"
+  },
+  {
+    "id": 316,
+    "joke": "The 'Free Gift' inside a chips packet is usually a tattoo that doesn't stick or a toy that breaks in 4 seconds.",
+    "language": "english"
+  },
+  {
+    "id": 317,
+    "joke": "My dad's password is his name followed by '123'. He thinks he is a hacker.",
+    "language": "english"
+  },
+  {
+    "id": 318,
+    "joke": "In India, we don't have 'Spring' or 'Autumn'. We have 'Hot', 'Very Hot', 'Rain', and 'Pollution'.",
+    "language": "english"
+  },
+  {
+    "id": 319,
+    "joke": "The most dangerous job interview question: 'Tell me about yourself.' *Brain freezes*. *Forgets name*. *Says 'I like cricket'.*",
+    "language": "english"
+  },
+  {
+    "id": 320,
+    "joke": "Indian moms measure fever by touching your forehead. Thermometers are for amateurs.",
+    "language": "english"
+  },
+  {
+    "id": 321,
+    "joke": "I saw a guy riding a bike with an umbrella in one hand. The balance was impeccable. Cirque du Soleil should hire him.",
+    "language": "english"
+  },
+  {
+    "id": 322,
+    "joke": "The 'Family WhatsApp Group' is 90% Good Morning GIFs and 10% fake news about UNESCO declaring our national anthem the best.",
+    "language": "english"
+  },
+  {
+    "id": 323,
+    "joke": "Why do we keep the plastic cover on the new car seats? To keep the resale value high for the next 10 years.",
+    "language": "english"
+  },
+  {
+    "id": 324,
+    "joke": "My friend from Delhi says 'Tu jaanta nahi mera baap kaun hai' (You don't know who my dad is). I think he forgot and is asking for help.",
+    "language": "english"
+  },
+  {
+    "id": 325,
+    "joke": "The most stressful game in India is 'Musical Chairs' at a birthday party. Aunties push kids. It gets violent.",
+    "language": "english"
+  },
+  {
+    "id": 326,
+    "joke": "I asked for 'Jain Food' on the flight. They gave me a banana. Technically correct, but emotionally damaging.",
+    "language": "english"
+  },
+  {
+    "id": 327,
+    "joke": "In India, 'Fresher' means 'Person who knows everything in theory but nothing in practice'.",
+    "language": "english"
+  },
+  {
+    "id": 328,
+    "joke": "The 'Autowala' refusal is the biggest rejection a person faces in life. Heartbreak is nothing compared to 'Nahi jayenge'.",
+    "language": "english"
+  },
+  {
+    "id": 329,
+    "joke": "Why do Indian men stare at construction sites? It is the universal pastime. Watching a JCB dig dirt is mesmerizing.",
+    "language": "english"
+  },
+  {
+    "id": 330,
+    "joke": "My mom's negotiation tactic: 'I will give 100 rupees.' Vendor: 'It is 500 rupees.' Mom: 'Okay, let's go.' *Vendor calls us back*. Victory.",
+    "language": "english"
+  },
+  {
+    "id": 331,
+    "joke": "The 'Incognito Tab' was invented for Indian teenagers who share a laptop with their parents.",
+    "language": "english"
+  },
+  {
+    "id": 332,
+    "joke": "I went to a 'Stand-up Comedy' show. The comedian roasted the front row so bad, I sat in the last row behind a pillar.",
+    "language": "english"
+  },
+  {
+    "id": 333,
+    "joke": "Indian roads are 50% tarmac, 50% potholes, and 100% adventure.",
+    "language": "english"
+  },
+  {
+    "id": 334,
+    "joke": "Why is it called 'Fast Food'? In India, it takes 20 minutes to make, and you eat it standing on the road.",
+    "language": "english"
+  },
+  {
+    "id": 335,
+    "joke": "My grandmother thinks my ripped jeans are a result of a bicycle accident.",
+    "language": "english"
+  },
+  {
+    "id": 336,
+    "joke": "The most popular sport in India is not Cricket. It is 'Judging Others'. Everyone plays it.",
+    "language": "english"
+  },
+  {
+    "id": 337,
+    "joke": "I tried to do 'Work Life Balance'. My boss laughed. My mom laughed. The universe laughed.",
+    "language": "english"
+  },
+  {
+    "id": 338,
+    "joke": "Indian tech support scams are getting advanced. One guy called me and said 'Your Windows has a virus'. I have a Mac. Awkward silence.",
+    "language": "english"
+  },
+  {
+    "id": 339,
+    "joke": "The 'Chappal' (Slipper) has two uses in India: Footwear and a weapon of mass destruction.",
+    "language": "english"
+  },
+  {
+    "id": 340,
+    "joke": "Why do we tap the remote when it stops working? We are giving it CPR.",
+    "language": "english"
+  },
+  {
+    "id": 341,
+    "joke": "In India, 'Veg' is the default. 'Non-Veg' is a luxury. 'Eggetarian' is a compromise.",
+    "language": "english"
+  },
+  {
+    "id": 342,
+    "joke": "My dad wears a dhoti at home. It is the ultimate ventilation system.",
+    "language": "english"
+  },
+  {
+    "id": 343,
+    "joke": "The most confusing thing about Indian currency: All the coins look the same now. Is it 1 rupee? Is it 2? Is it 10? It's a surprise.",
+    "language": "english"
+  },
+  {
+    "id": 344,
+    "joke": "I told my mom I want to buy a dog. She said, 'We already have you.' Emotional damage.",
+    "language": "english"
+  },
+  {
+    "id": 345,
+    "joke": "Indian weddings are incomplete without that one drunk uncle dancing with a glass on his head.",
+    "language": "english"
+  },
+  {
+    "id": 346,
+    "joke": "Why did the Sharmaji ka beta become a doctor? Because 'YouTuber' was not an option in the family WhatsApp group.",
+    "language": "english"
+  },
+  {
+    "id": 347,
+    "joke": "The 'No Smoking' ads before movies in India are scarier than the actual horror movie.",
+    "language": "english"
+  },
+  {
+    "id": 348,
+    "joke": "I bought an expensive gym outfit. Now I am too scared to sweat in it. I just stand there and look sporty.",
+    "language": "english"
+  },
+  {
+    "id": 349,
+    "joke": "Indian 'High Tea' is just Chai and Parle-G biscuits dipped until they are 90% soggy.",
+    "language": "english"
+  },
+  {
+    "id": 350,
+    "joke": "My laptop fan sounds like a helicopter taking off. I think it wants to fly to the US.",
+    "language": "english"
+  },
+  {
+    "id": 351,
+    "joke": "The 'Warranty' on Indian electronics is a myth. The shopkeeper always says 'Physical Damage' and voids it.",
+    "language": "english"
+  },
+  {
+    "id": 352,
+    "joke": "Why do we have 'Guest Slippers'? Who are these guests who don't have their own shoes?",
+    "language": "english"
+  },
+  {
+    "id": 353,
+    "joke": "I tried to explain 'NFTs' to my dad. He said, 'So you bought a photo of a monkey for 1 Lakh? Get out.'",
+    "language": "english"
+  },
+  {
+    "id": 354,
+    "joke": "The Indian definition of 'Spacious': You can walk around the bed sideways.",
+    "language": "english"
+  },
+  {
+    "id": 355,
+    "joke": "My mom's favorite hobby is finding things I lost right in front of my eyes. She is a magician.",
+    "language": "english"
+  },
+  {
+    "id": 356,
+    "joke": "Why do Indian trucks have 'Blow Horn' written on them? As if we needed an invitation.",
+    "language": "english"
+  },
+  {
+    "id": 357,
+    "joke": "The 'S' in Indian Education stands for 'Stress'.",
+    "language": "english"
+  },
+  {
+    "id": 358,
+    "joke": "I ordered a 'Mini Thali'. It came with 4 bowls, 3 rotis, rice, papad, and sweet. I fear what the 'Mega Thali' looks like.",
+    "language": "english"
+  },
+  {
+    "id": 359,
+    "joke": "The most trusted person in an Indian's life is the 'Watchman'. He knows everything.",
+    "language": "english"
+  },
+  {
+    "id": 360,
+    "joke": "Why do we look at the ceiling when we forget an answer? Is the syllabus written up there?",
+    "language": "english"
+  },
+  {
+    "id": 361,
+    "joke": "When the TV remote batteries die, Indians don't replace them. We bite them, roll them, and put them back in. It works. Science cannot explain it.",
+    "language": "english"
+  },
+  {
+    "id": 362,
+    "joke": "I went for a flat interview in Bangalore. The landlord asked for my CV, LinkedIn profile, blood report, and a kidney as security deposit.",
+    "language": "english"
+  },
+  {
+    "id": 363,
+    "joke": "Indian Mom: 'Eat this dahi-shakar (curd and sugar) before the exam.' Me: 'Mom, I haven't studied.' Mom: 'It doesn't matter, the curd will write the paper.'",
+    "language": "english"
+  },
+  {
+    "id": 364,
+    "joke": "The most dangerous animal in India is not the tiger. It is the stray dog that chases your bike at 2 AM.",
+    "language": "english"
+  },
+  {
+    "id": 365,
+    "joke": "Why do we say 'Chappal ulti hai' (The slipper is upside down)? Because we believe it causes a fight in the house. Physics left the chat.",
+    "language": "english"
+  },
+  {
+    "id": 366,
+    "joke": "My friend said he is 'dating'. In India, that means they met once at Starbucks and now he is planning the wedding in his head.",
+    "language": "english"
+  },
+  {
+    "id": 367,
+    "joke": "The 'Middle Berth' in a train is the most awkward place on earth. You are neither sitting nor sleeping; you are just existing in a sandwich.",
+    "language": "english"
+  },
+  {
+    "id": 368,
+    "joke": "I told my barber 'Just trim the sides'. He heard 'Destroy my social life'. Now I wear a cap everywhere.",
+    "language": "english"
+  },
+  {
+    "id": 369,
+    "joke": "Indian dads don't need Google Maps. They just roll down the window and ask 'Bhaiya, station kaha hai?' to a random pedestrian.",
+    "language": "english"
+  },
+  {
+    "id": 370,
+    "joke": "The 'Return Gift' at Indian birthday parties is the only reason we attended them as kids. A pencil box changed lives.",
+    "language": "english"
+  },
+  {
+    "id": 371,
+    "joke": "My mom's logic: If you sneeze once, it's dust. If you sneeze twice, someone is remembering you. If you sneeze three times, you are dying.",
+    "language": "english"
+  },
+  {
+    "id": 372,
+    "joke": "Why do Indian uncles wear their pants above their belly button? To assert dominance.",
+    "language": "english"
+  },
+  {
+    "id": 373,
+    "joke": "I asked for a 'Strong Coffee'. The waiter gave me a look that woke me up. Coffee wasn't even needed.",
+    "language": "english"
+  },
+  {
+    "id": 374,
+    "joke": "The most intense cardio I do is running to the terrace to pick up clothes when it starts raining.",
+    "language": "english"
+  },
+  {
+    "id": 375,
+    "joke": "Indian 'Customer Care': 'Please hold the line.' *Music plays for 40 minutes*. *Call disconnects automatically*.",
+    "language": "english"
+  },
+  {
+    "id": 376,
+    "joke": "I bought a treadmill. It is now the most expensive clothes drying rack in my house.",
+    "language": "english"
+  },
+  {
+    "id": 377,
+    "joke": "When an Indian says 'I will see', it means 'No'. When they say 'I will try', it means 'No'. When they say 'No', they mean 'Maybe'.",
+    "language": "english"
+  },
+  {
+    "id": 378,
+    "joke": "My dad's idea of tech support: 'Delete WhatsApp and install it again.' It is his solution for everything, including fever.",
+    "language": "english"
+  },
+  {
+    "id": 379,
+    "joke": "The struggle of eating a burger in India: The patty slips out from the back, the sauce drips on your shirt, and you look like a toddler.",
+    "language": "english"
+  },
+  {
+    "id": 380,
+    "joke": "In India, we don't have 'dustbins'. We have 'That empty plot next to Sharmaji's house'.",
+    "language": "english"
+  },
+  {
+    "id": 381,
+    "joke": "Why do we lower the volume of the car radio when we are looking for an address? Does the music blind us?",
+    "language": "english"
+  },
+  {
+    "id": 382,
+    "joke": "Indian Tuition Teachers: 'If you don't understand, ask me 10 times.' Also Teachers: 'Why are you asking so many questions? Sit down!'",
+    "language": "english"
+  },
+  {
+    "id": 383,
+    "joke": "The 'Free Dhaniya-Mirchi' (Coriander-Chili) is not a vegetable. It is a fundamental human right in India.",
+    "language": "english"
+  },
+  {
+    "id": 384,
+    "joke": "I went to a 'Theme Party'. The theme was 'Desi'. Everyone wore Kurta Pajama and judged each other. Success.",
+    "language": "english"
+  },
+  {
+    "id": 385,
+    "joke": "My mom can find a mistake in my life faster than a compiler finds a syntax error in my code.",
+    "language": "english"
+  },
+  {
+    "id": 386,
+    "joke": "The 'Ladies Compartment' in the Metro is a war zone wrapped in floral scents.",
+    "language": "english"
+  },
+  {
+    "id": 387,
+    "joke": "Why do we say 'Hello' three times when the signal is bad? As if the third 'Hello' has more network power.",
+    "language": "english"
+  },
+  {
+    "id": 388,
+    "joke": "Indian wedding photographers will ask you to pose in ways that defy human anatomy. 'Hold the flower, look at the moon, twist your leg.'",
+    "language": "english"
+  },
+  {
+    "id": 389,
+    "joke": "My dad thinks every courier delivery is a bomb. 'What did you order? Why is it so heavy? Open it outside.'",
+    "language": "english"
+  },
+  {
+    "id": 390,
+    "joke": "The most popular excuse in Indian offices: 'Sir, there was a traffic jam.' It works even if you are working from home.",
+    "language": "english"
+  },
+  {
+    "id": 391,
+    "joke": "I tried to explain 'introvert' to my relatives. They said, 'It's just a phase, come dance on DJ wale babu.'",
+    "language": "english"
+  },
+  {
+    "id": 392,
+    "joke": "Indian street food hygiene: The sweat of the chef adds flavor. If he wears gloves, the taste is gone.",
+    "language": "english"
+  },
+  {
+    "id": 393,
+    "joke": "Why do we keep old wedding invitation cards? To use them as coasters or to write grocery lists on the back.",
+    "language": "english"
+  },
+  {
+    "id": 394,
+    "joke": "The 'Blue Tick' on WhatsApp is the modern cause of anxiety. 'He read it. Why didn't he reply? Is he dead? Is he hating me?'",
+    "language": "english"
+  },
+  {
+    "id": 395,
+    "joke": "My mom's favorite dialogue: 'This house is not a hotel.' Yet, the service is 5-star and free.",
+    "language": "english"
+  },
+  {
+    "id": 396,
+    "joke": "In India, you don't retire. You just become a full-time advisor to everyone in the neighborhood.",
+    "language": "english"
+  },
+  {
+    "id": 397,
+    "joke": "I asked the shopkeeper for a bill. He looked at me like I asked for his kidney donor card. 'No GST sir, cash only.'",
+    "language": "english"
+  },
+  {
+    "id": 398,
+    "joke": "The 'Window Seat' in a bus is only fun until the sun starts melting your face off.",
+    "language": "english"
+  },
+  {
+    "id": 399,
+    "joke": "Why do Indian men keep long fingernails on their pinky finger? To open parcels? To scratch lottery tickets? The mystery remains.",
+    "language": "english"
+  },
+  {
+    "id": 400,
+    "joke": "I told my dad I want to be an artist. He asked, 'Which bank branch will you paint?'",
+    "language": "english"
+  },
+  {
+    "id": 401,
+    "joke": "The sheer disappointment when you open the fridge and see an ice cream container, but it has 'Adrak-Lehsun' (Ginger-Garlic) paste inside.",
+    "language": "english"
+  },
+  {
+    "id": 402,
+    "joke": "Indian road signs are merely suggestions. 'No U-Turn' actually means 'U-Turn if no police'.",
+    "language": "english"
+  },
+  {
+    "id": 403,
+    "joke": "My mom thinks 'gaming' causes fever, stomach ache, and bad grades. It is the root of all evil.",
+    "language": "english"
+  },
+  {
+    "id": 404,
+    "joke": "The 'Chai Break' in corporate India is not about tea. It is about complaining about the management for 15 minutes.",
+    "language": "english"
+  },
+  {
+    "id": 405,
+    "joke": "Why do we hoard condiment packets? My fridge has enough Domino's Oregano to season a whole Italian village.",
+    "language": "english"
+  },
+  {
+    "id": 406,
+    "joke": "Indian Cinema: The hero gets shot in the heart, but he survives because he had a coin in his pocket given by his mother.",
+    "language": "english"
+  },
+  {
+    "id": 407,
+    "joke": "The most awkward moment: When guests are leaving, and they give you money (Shagun), and you have to pretend to refuse it while secretly wanting it.",
+    "language": "english"
+  },
+  {
+    "id": 408,
+    "joke": "I went to a 'Sangeet' ceremony. It was basically a dance competition between the Bride's side and Groom's side. I was just there for the Gulab Jamun.",
+    "language": "english"
+  },
+  {
+    "id": 409,
+    "joke": "My dad's sneeze is louder than a Diwali bomb. The whole colony knows he is awake.",
+    "language": "english"
+  },
+  {
+    "id": 410,
+    "joke": "In India, 'Spicy' is not a flavor. It is an emotion. If you are not sweating, you are not eating.",
+    "language": "english"
+  },
+  {
+    "id": 411,
+    "joke": "Why do we have 'China Gate' gates in Indian colonies? They look like fortress entrances but the security guard is always sleeping.",
+    "language": "english"
+  },
+  {
+    "id": 412,
+    "joke": "The 'Vegetable Biryani' debate: It is Pulao. Stop trying to make 'Veg Biryani' happen. It's not going to happen.",
+    "language": "english"
+  },
+  {
+    "id": 413,
+    "joke": "I tried to buy a house in Mumbai. The broker showed me a cupboard and called it a 'Studio Apartment'.",
+    "language": "english"
+  },
+  {
+    "id": 414,
+    "joke": "Indian moms and Tupperware: A love story better than Romeo and Juliet. If you lose the lid, you lose your life.",
+    "language": "english"
+  },
+  {
+    "id": 415,
+    "joke": "The most dangerous sport in India: Crossing the road while talking on the phone.",
+    "language": "english"
+  },
+  {
+    "id": 416,
+    "joke": "My boss sent an email at 11 PM. I replied at 11:01 PM. Now he thinks I have no life. He is correct.",
+    "language": "english"
+  },
+  {
+    "id": 417,
+    "joke": "Why do we call everyone 'Boss' or 'Chief' in India? It makes the waiter bring the food faster. Respect implies speed.",
+    "language": "english"
+  },
+  {
+    "id": 418,
+    "joke": "The 'Blank Call' era is over. Now we have the 'Spam Call' era. 'Sir, do you want a credit card?' 'No.' 'Why sir?'",
+    "language": "english"
+  },
+  {
+    "id": 419,
+    "joke": "I saw a sign 'Fine for spitting: Rs 500'. There was paan spit right on the sign. Irony died a red death there.",
+    "language": "english"
+  },
+  {
+    "id": 420,
+    "joke": "Indian Engineering Colleges: Where you learn how to survive without sleep, food, or knowledge.",
+    "language": "english"
+  },
+  {
+    "id": 421,
+    "joke": "My mom buys clothes a size bigger so I can 'grow into them'. I am 25. I have stopped growing, Mom.",
+    "language": "english"
+  },
+  {
+    "id": 422,
+    "joke": "The most deceptive thing in India: The '2 Minutes' written on the Maggi packet.",
+    "language": "english"
+  },
+  {
+    "id": 423,
+    "joke": "I asked my friend for directions. He said 'Come straight, then take a left where the Buffalo is sitting'. What if the Buffalo moves?",
+    "language": "english"
+  },
+  {
+    "id": 424,
+    "joke": "Indian weddings: The only place where you can judge people's jewelry and eat free food at the same time.",
+    "language": "english"
+  },
+  {
+    "id": 425,
+    "joke": "The 'Upper Berth' in a train is a VIP lounge. You can sleep while everyone below you fights for leg space.",
+    "language": "english"
+  },
+  {
+    "id": 426,
+    "joke": "Why do Indian aunties ask 'Beta, what are you doing these days?' They don't care. They just want to compare you to their son.",
+    "language": "english"
+  },
+  {
+    "id": 427,
+    "joke": "I went to a government office. The officer said 'Come after lunch'. It was 10:30 AM. Lunch is a state of mind.",
+    "language": "english"
+  },
+  {
+    "id": 428,
+    "joke": "The most useless thing I learned in school: (a+b)^2. The most useful thing I needed to learn: How to file taxes.",
+    "language": "english"
+  },
+  {
+    "id": 429,
+    "joke": "My dad's negotiation skills are so good, he could probably get a discount on the death tax.",
+    "language": "english"
+  },
+  {
+    "id": 430,
+    "joke": "In India, if you are good at computers, you are the unpaid IT support for the entire extended family.",
+    "language": "english"
+  },
+  {
+    "id": 431,
+    "joke": "The 'Inverter' beeping sound during a power cut is the heartbeat of the Indian summer.",
+    "language": "english"
+  },
+  {
+    "id": 432,
+    "joke": "Why do we put a 'Kala Tika' (Black dot) on babies? To protect them from evil eyes. It's an ancient firewall.",
+    "language": "english"
+  },
+  {
+    "id": 433,
+    "joke": "I tried to be a blogger. My mom saw my video and said, 'Comb your hair first'. Career ended.",
+    "language": "english"
+  },
+  {
+    "id": 434,
+    "joke": "The 'Shared Auto' experience: Sitting with one leg inside and one leg hanging out, holding onto your life for Rs. 10.",
+    "language": "english"
+  },
+  {
+    "id": 435,
+    "joke": "Indian Traffic Police: They hide behind trees like snipers. You won't see them until you jump the signal.",
+    "language": "english"
+  },
+  {
+    "id": 436,
+    "joke": "My dad checks the electricity meter every day like he is checking the stock market.",
+    "language": "english"
+  },
+  {
+    "id": 437,
+    "joke": "The 'Sofa' in the drawing room is for guests only. If you sit on it, you are violating the sanctity of the 'Guest Zone'.",
+    "language": "english"
+  },
+  {
+    "id": 438,
+    "joke": "Why do Indian men put handkerchiefs on their heads in summer? It is the desi version of a cooling system.",
+    "language": "english"
+  },
+  {
+    "id": 439,
+    "joke": "I ordered a pizza. The delivery guy called and said 'Lift is not working'. I live on the 1st floor. He just wanted me to come down.",
+    "language": "english"
+  },
+  {
+    "id": 440,
+    "joke": "The 'School Assembly' faint: There was always that one kid who fainted during the principal's speech. Legend.",
+    "language": "english"
+  },
+  {
+    "id": 441,
+    "joke": "Indian dads love to ask 'Petrol ka rate kya hai?' (What is the petrol price?) even if they don't own a car. It is general knowledge practice.",
+    "language": "english"
+  },
+  {
+    "id": 442,
+    "joke": "My mom's favorite threat: 'I will leave this house and go to the Himalayas.' She has been threatening this for 20 years.",
+    "language": "english"
+  },
+  {
+    "id": 443,
+    "joke": "The 'Old Monk' bottle in the cabinet usually contains oil or water. Never trust the label in an Indian kitchen.",
+    "language": "english"
+  },
+  {
+    "id": 444,
+    "joke": "Why do we say 'Timepass' for doing nothing? Because 'Procrastination' is too difficult to pronounce.",
+    "language": "english"
+  },
+  {
+    "id": 445,
+    "joke": "The most versatile vegetable: Aloo (Potato). It goes into Samosa, Paratha, Sabzi, Sandwich, and our arteries.",
+    "language": "english"
+  },
+  {
+    "id": 446,
+    "joke": "I told my boss I am sick. He checked my WhatsApp 'Last Seen'. Amateur mistake.",
+    "language": "english"
+  },
+  {
+    "id": 447,
+    "joke": "Indian Railways tea: It tastes like hot water, milk powder, and the cup itself. Yet, we drink it.",
+    "language": "english"
+  },
+  {
+    "id": 448,
+    "joke": "The 'Side Stand' anxiety: Driving next to someone and frantically pointing at their bike's side stand. It is a community service.",
+    "language": "english"
+  },
+  {
+    "id": 449,
+    "joke": "Why do Indian uncles talk so loudly on the phone? They think the person is far away so they have to shout to reach them.",
+    "language": "english"
+  },
+  {
+    "id": 450,
+    "joke": "The 'Bucket Bath' is the most water-efficient system. Showers are for people who don't pay water bills.",
+    "language": "english"
+  },
+  {
+    "id": 451,
+    "joke": "My mom's definition of 'Clean': The floor should be so clean you can eat off it. (Don't actually try it, she will kill you).",
+    "language": "english"
+  },
+  {
+    "id": 452,
+    "joke": "The 'Morning Alarm': It's not the phone. It's your mom turning off the fan and opening the curtains to blind you with sunlight.",
+    "language": "english"
+  },
+  {
+    "id": 453,
+    "joke": "I tried to make 'Round Rotis'. They looked like the map of Africa. My mom said 'At least you know geography'.",
+    "language": "english"
+  },
+  {
+    "id": 454,
+    "joke": "Indian 'Small Talk': 'Aur batao?' (Tell me more). 'Sab badhiya?' (Everything good?). Loop continues for 20 minutes.",
+    "language": "english"
+  },
+  {
+    "id": 455,
+    "joke": "The 'Fancy Crockery' only comes out when the 'Rishta' (Marriage proposal) people come. Otherwise, we eat in steel plates.",
+    "language": "english"
+  },
+  {
+    "id": 456,
+    "joke": "Why do we shake the ink pen when it stops writing? We are giving it a concussion to make it work.",
+    "language": "english"
+  },
+  {
+    "id": 457,
+    "joke": "The 'Foreign Return' relative: They bring chocolates that taste exactly like the ones we get here, but we pretend they are premium.",
+    "language": "english"
+  },
+  {
+    "id": 458,
+    "joke": "I asked for 'Extra Cheese' on my pizza. They grated a microscopic amount. I need a magnifying glass to find it.",
+    "language": "english"
+  },
+  {
+    "id": 459,
+    "joke": "Indian Moms usually have a 'Box of Medicines'. It contains expired tablets from 1999 that she claims 'still work'.",
+    "language": "english"
+  },
+  {
+    "id": 460,
+    "joke": "The most optimistic person: The guy selling sunglasses in the middle of the night on a train.",
+    "language": "english"
+  },
+  {
+    "id": 461,
+    "joke": "The most tragic moment in an Indian childhood: Dipping a Parle-G biscuit in tea for 1 second too long and watching it drown.",
+    "language": "english"
+  },
+  {
+    "id": 462,
+    "joke": "Indian HRs have a solution for every corporate problem: 'Let's organize a Rangoli competition.'",
+    "language": "english"
+  },
+  {
+    "id": 463,
+    "joke": "We don't throw away shampoo bottles. We add water, shake it, and use it for another week. It's called 'shampoo homeopathy'.",
+    "language": "english"
+  },
+  {
+    "id": 464,
+    "joke": "Gully Cricket Rule #1: The person who owns the bat opens the batting. Rule #2: If you hit the neighbor's window, you are out and dead.",
+    "language": "english"
+  },
+  {
+    "id": 465,
+    "joke": "My dad's phone font size is so huge, the person sitting three seats away in the Metro can read his messages.",
+    "language": "english"
+  },
+  {
+    "id": 466,
+    "joke": "In India, 'I am 5 minutes away' means 'I have just woken up and am looking for my towel'.",
+    "language": "english"
+  },
+  {
+    "id": 467,
+    "joke": "The 'Window Shopping' skill of Indian families is legendary. We can spend 3 hours in a mall, enjoy the AC, criticize the prices, and buy one ice cream.",
+    "language": "english"
+  },
+  {
+    "id": 468,
+    "joke": "Why do Indian moms shout while talking on long-distance calls? They think the voice needs extra force to travel across states.",
+    "language": "english"
+  },
+  {
+    "id": 469,
+    "joke": "The 'Toothpaste Tube' is not empty until you have flattened it with a rolling pin and extracted the last atom of paste.",
+    "language": "english"
+  },
+  {
+    "id": 470,
+    "joke": "I asked a girl out. She said she has a boyfriend. In India, this is often a security feature, not a fact.",
+    "language": "english"
+  },
+  {
+    "id": 471,
+    "joke": "The 'Emergency Key' is always hidden under the doormat or inside the shoe rack. Thieves know this, but we still do it.",
+    "language": "english"
+  },
+  {
+    "id": 472,
+    "joke": "Indian weddings: The groom is sweating in a heavy Sherwani, the bride is weighed down by jewelry, and the guests are complaining that the AC is too cold.",
+    "language": "english"
+  },
+  {
+    "id": 473,
+    "joke": "My mom's superpower: She can tell if I have gained weight just by looking at my face on a blurry video call.",
+    "language": "english"
+  },
+  {
+    "id": 474,
+    "joke": "The 'One Tip, One Hand' rule in cricket is the most controversial law in Indian sports history.",
+    "language": "english"
+  },
+  {
+    "id": 475,
+    "joke": "Why do we have a 'Dining Table'? We all eat sitting on the sofa watching TV anyway. The table is just for keeping medicines and keys.",
+    "language": "english"
+  },
+  {
+    "id": 476,
+    "joke": "I told my dad I am learning 'Cloud Computing'. He asked if it will help predict the monsoon rain.",
+    "language": "english"
+  },
+  {
+    "id": 477,
+    "joke": "The 'Towel' in an Indian house is communal property. It hangs there, judging everyone's hygiene.",
+    "language": "english"
+  },
+  {
+    "id": 478,
+    "joke": "Indian cinema logic: The hero can fight 20 goons, but if his mother slaps him, he loses all his power.",
+    "language": "english"
+  },
+  {
+    "id": 479,
+    "joke": "My boss asked 'Where do you see yourself in 10 years?' I said 'Waiting for my PF withdrawal'.",
+    "language": "english"
+  },
+  {
+    "id": 480,
+    "joke": "The most confusing thing for an Indian child: When guests say 'No, take the money' and Mom says 'No don't take it'. The child is in a moral dilemma.",
+    "language": "english"
+  },
+  {
+    "id": 481,
+    "joke": "Why do we say 'Nice pic dear' on Facebook photos that are clearly terrible? It is a social obligation.",
+    "language": "english"
+  },
+  {
+    "id": 482,
+    "joke": "I tried to follow a map in Old Delhi. The map gave up. It just showed a spinning circle that meant 'Good luck, bro'.",
+    "language": "english"
+  },
+  {
+    "id": 483,
+    "joke": "The 'Plastic Chair' is the official furniture of Indian events. It is stackable, breakable, and available in only two colors: Red or Blue.",
+    "language": "english"
+  },
+  {
+    "id": 484,
+    "joke": "Indian trains: The only place where you wake up to the smell of 'Tomato Soup' at 6 AM.",
+    "language": "english"
+  },
+  {
+    "id": 485,
+    "joke": "My dad's favorite pastime: Standing in the balcony with hands on his hips, judging how the neighbor is parking his car.",
+    "language": "english"
+  },
+  {
+    "id": 486,
+    "joke": "The 'School Bag' we carried was heavier than the knowledge we gained. We were basically training for the army.",
+    "language": "english"
+  },
+  {
+    "id": 487,
+    "joke": "Why do shopkeepers calculate the total on a calculator and then re-calculate it manually? Trust issues.",
+    "language": "english"
+  },
+  {
+    "id": 488,
+    "joke": "The 'Pre-Wedding Shoot' is just a couple pretending to be actors in a low-budget movie while pedestrians watch awkwardly.",
+    "language": "english"
+  },
+  {
+    "id": 489,
+    "joke": "I asked the waiter 'Is the water filtered?' He said 'Yes sir, through a cloth'. I ordered a Coke immediately.",
+    "language": "english"
+  },
+  {
+    "id": 490,
+    "joke": "Indian parents compare you to 'Sharmaji's son'. But they never compare themselves to 'Sharmaji', who takes his family to Switzerland.",
+    "language": "english"
+  },
+  {
+    "id": 491,
+    "joke": "The most useless pocket in the world: The small pocket inside jeans. You can only keep one coin or a memory card in it.",
+    "language": "english"
+  },
+  {
+    "id": 492,
+    "joke": "My mom's favorite sentence starting with 'When I was your age...'. It is usually followed by a story of extreme hardship like walking through a jungle to school.",
+    "language": "english"
+  },
+  {
+    "id": 493,
+    "joke": "The 'Golgappa Guy' has the best memory. He remembers exactly how many you ate, even if there are 20 people crowding him.",
+    "language": "english"
+  },
+  {
+    "id": 494,
+    "joke": "Why do we lower our voice when talking about money in public? As if the Income Tax department is hiding in the bushes.",
+    "language": "english"
+  },
+  {
+    "id": 495,
+    "joke": "I bought a 'Smart Watch'. It told me to 'Breathe'. I was doing that anyway. Rs. 5000 wasted.",
+    "language": "english"
+  },
+  {
+    "id": 496,
+    "joke": "The 'Stationery Box' in school was a status symbol. If you had the one with buttons and a hidden compartment, you were royalty.",
+    "language": "english"
+  },
+  {
+    "id": 497,
+    "joke": "Indian phone calls don't end with 'Bye'. They end with 'Chalo okay, okay, haan, okay, bye, okay, rakhta hoon'.",
+    "language": "english"
+  },
+  {
+    "id": 498,
+    "joke": "My friend drives his car like he is playing GTA Vice City. He thinks sidewalks are optional lanes.",
+    "language": "english"
+  },
+  {
+    "id": 499,
+    "joke": "The 'Saree' is the most magical garment. One long piece of cloth can be draped in 100 ways, and it defies gravity with just one safety pin.",
+    "language": "english"
+  },
+  {
+    "id": 500,
+    "joke": "I told my mom I am 'intermittent fasting'. She said 'Don't act smart, just say you woke up late'.",
+    "language": "english"
+  },
+  {
+    "id": 501,
+    "joke": "Why do we call the waiter 'Boss'? And the boss 'Sir'? And the sir 'Bhai'? The hierarchy is confused.",
+    "language": "english"
+  },
+  {
+    "id": 502,
+    "joke": "The 'Power Nap' in India is not 20 minutes. It is 3 hours of deep sleep followed by tea and confusion about what year it is.",
+    "language": "english"
+  },
+  {
+    "id": 503,
+    "joke": "I went to a fancy restaurant. The menu had no prices. I knew I was in danger.",
+    "language": "english"
+  },
+  {
+    "id": 504,
+    "joke": "Indian Moms believe that 'Vicks VapoRub' can cure everything from a cold to a broken leg.",
+    "language": "english"
+  },
+  {
+    "id": 505,
+    "joke": "The 'School Bus' driver was the first formula 1 racer we ever saw. He drove like he was late for his own wedding.",
+    "language": "english"
+  },
+  {
+    "id": 506,
+    "joke": "Why do we keep the 'Box' of the new mobile phone for 5 years? Are we going to re-pack it and sell it as new?",
+    "language": "english"
+  },
+  {
+    "id": 507,
+    "joke": "The 'Ladies Sangeet' is where you find out that your quiet aunt is actually a professional dancer.",
+    "language": "english"
+  },
+  {
+    "id": 508,
+    "joke": "My dad thinks 'Incense Sticks' (Agarbatti) can purify the air, kill mosquitoes, and fix the WiFi router.",
+    "language": "english"
+  },
+  {
+    "id": 509,
+    "joke": "I asked my colleague 'How are you?'. He told me his entire life story, his medical history, and his EMI problems. I just wanted to say Hi.",
+    "language": "english"
+  },
+  {
+    "id": 510,
+    "joke": "The 'Pressure Cooker' gasket always breaks when guests are coming. It is a conspiracy.",
+    "language": "english"
+  },
+  {
+    "id": 511,
+    "joke": "In India, 'Walking Distance' means anything under 3 kilometers. 'Just take a Rickshaw' means it is 500 meters away.",
+    "language": "english"
+  },
+  {
+    "id": 512,
+    "joke": "My mom's favorite hobby is rearranging the kitchen so that nobody, including her, can find the sugar.",
+    "language": "english"
+  },
+  {
+    "id": 513,
+    "joke": "The 'School Picnic' was the highlight of the year. We didn't care where we went, as long as we could scream songs on the bus.",
+    "language": "english"
+  },
+  {
+    "id": 514,
+    "joke": "Why do Indian men stand with their hands on their hips when looking at a problem? It is the 'Engineering Stance'.",
+    "language": "english"
+  },
+  {
+    "id": 515,
+    "joke": "I ordered 'Cappuccino'. The waiter brought coffee with so much foam I needed a spoon to find the liquid.",
+    "language": "english"
+  },
+  {
+    "id": 516,
+    "joke": "The 'Sunday Morning' in India means the sound of the mixer-grinder making Idli batter or Chutney.",
+    "language": "english"
+  },
+  {
+    "id": 517,
+    "joke": "I told my dad I want to be a 'Content Creator'. He said 'Create content for the bank passbook first'.",
+    "language": "english"
+  },
+  {
+    "id": 518,
+    "joke": "The most dangerous weapon in a sibling fight: 'I will tell Mom'. It ends the war instantly.",
+    "language": "english"
+  },
+  {
+    "id": 519,
+    "joke": "Why do we say 'Side please' to a cow on the road? Do we expect it to understand English?",
+    "language": "english"
+  },
+  {
+    "id": 520,
+    "joke": "The 'Gym' in January is full of people. The 'Gym' in February is back to the 5 regular bodybuilders.",
+    "language": "english"
+  },
+  {
+    "id": 521,
+    "joke": "My mom saves 'Gift Wrap' paper. She peels the tape off surgically so she can use it for the next wedding.",
+    "language": "english"
+  },
+  {
+    "id": 522,
+    "joke": "The 'Passport Photo' guy always tells you to 'Tilt head left, smile less, chin down'. You end up looking like a criminal.",
+    "language": "english"
+  },
+  {
+    "id": 523,
+    "joke": "Indian 'Street Dogs' have a territory map more complex than Google Maps. Cross the line, and the gang war starts.",
+    "language": "english"
+  },
+  {
+    "id": 524,
+    "joke": "I tried to explain 'Veganism' to my Grandma. She said 'So, fasting food every day?'",
+    "language": "english"
+  },
+  {
+    "id": 525,
+    "joke": "The 'Exam Hall' supervisor always wears shoes that make a 'squeak-squeak' sound to intimidate you.",
+    "language": "english"
+  },
+  {
+    "id": 526,
+    "joke": "Why do we hold the 'Door' open for others and then get awkward when they walk too slowly?",
+    "language": "english"
+  },
+  {
+    "id": 527,
+    "joke": "My dad's 'Good Morning' message is a video of a sunrise with a flute playing in the background. It is 50MB.",
+    "language": "english"
+  },
+  {
+    "id": 528,
+    "joke": "The 'Buffet' strategy: Start with the expensive starters (Paneer/Chicken). Ignore the rice. Fill the gaps with dessert.",
+    "language": "english"
+  },
+  {
+    "id": 529,
+    "joke": "I saw a guy wearing a leather jacket in Mumbai summer. I wanted to ask him if he lost a bet.",
+    "language": "english"
+  },
+  {
+    "id": 530,
+    "joke": "The 'Notice Board' in the apartment complex is where passive-aggressive wars are fought. 'Dear Residents, please do not throw water...'",
+    "language": "english"
+  },
+  {
+    "id": 531,
+    "joke": "Why do we check the lock on the door three times before sleeping? Just to be sure the lock didn't unlock itself.",
+    "language": "english"
+  },
+  {
+    "id": 532,
+    "joke": "The 'Vegetable Vendor' gives free chillies only if you ask with confidence. If you hesitate, you get nothing.",
+    "language": "english"
+  },
+  {
+    "id": 533,
+    "joke": "My mom's logic: 'If you don't drink milk, you will not get married.' The correlation is scientifically unproven.",
+    "language": "english"
+  },
+  {
+    "id": 534,
+    "joke": "The 'Water Bottle' in the fridge must always be full. If you put an empty bottle back, you are disowned.",
+    "language": "english"
+  },
+  {
+    "id": 535,
+    "joke": "I told my friend 'I am on the way'. I was actually searching for my socks.",
+    "language": "english"
+  },
+  {
+    "id": 536,
+    "joke": "The 'Rickshaw Meter' is a decorative item. It has not been used since 1995.",
+    "language": "english"
+  },
+  {
+    "id": 537,
+    "joke": "Why do we say 'Expired Medicine'? My dad says 'It is just a suggestion' and takes it anyway.",
+    "language": "english"
+  },
+  {
+    "id": 538,
+    "joke": "The 'Feedback Form' at restaurants is just a way to get your phone number for spam SMS.",
+    "language": "english"
+  },
+  {
+    "id": 539,
+    "joke": "My mom's 'Safety Locker' is a steel 'Godrej Almirah' that weighs 5 tons. The key is hidden in a rice container.",
+    "language": "english"
+  },
+  {
+    "id": 540,
+    "joke": "The 'Online Meeting' with camera off is basically me eating chips and nodding occasionally.",
+    "language": "english"
+  },
+  {
+    "id": 541,
+    "joke": "Why do we look at the fan speed regulator when turning it? Do we need visual confirmation that 5 is indeed faster than 1?",
+    "language": "english"
+  },
+  {
+    "id": 542,
+    "joke": "The 'New Year Resolution' is to save money. The 'New Year Reality' is ordering food because I am too lazy to cook.",
+    "language": "english"
+  },
+  {
+    "id": 543,
+    "joke": "I tried to fix the tap. Now the shower is leaking. I am not a plumber, I am a destroyer.",
+    "language": "english"
+  },
+  {
+    "id": 544,
+    "joke": "The 'Sleeper Class' fan only has two speeds: 'Helicopter' or 'Dead'.",
+    "language": "english"
+  },
+  {
+    "id": 545,
+    "joke": "Why do Indian uncles ask 'Salary kitna hai?' (How much is the salary?). Do they want to file my taxes?",
+    "language": "english"
+  },
+  {
+    "id": 546,
+    "joke": "The 'Guest' who says 'I will leave in 5 minutes' stays for another hour standing at the door.",
+    "language": "english"
+  },
+  {
+    "id": 547,
+    "joke": "My mom thinks 'Bluetooth' emits radiation that fries the brain. She makes me turn it off at night.",
+    "language": "english"
+  },
+  {
+    "id": 548,
+    "joke": "The 'Raincoat' on a bike makes you look like a giant colorful balloon, but at least you are dry. Until the water goes down your neck.",
+    "language": "english"
+  },
+  {
+    "id": 549,
+    "joke": "Why do we tap the microphone and say 'Hello Check' five times? We don't trust the sound guy.",
+    "language": "english"
+  },
+  {
+    "id": 550,
+    "joke": "The 'Mobile Cover' turns yellow after 3 months. It is a natural process, like leaves turning brown in autumn.",
+    "language": "english"
+  },
+  {
+    "id": 551,
+    "joke": "I told my dad I bought a 'Virtual Land' in the Metaverse. He asked if we can grow potatoes there.",
+    "language": "english"
+  },
+  {
+    "id": 552,
+    "joke": "The 'Shopping Mall' entrance security check: The guard waves the detector wand near you without even looking. You could be carrying a tank and he wouldn't know.",
+    "language": "english"
+  },
+  {
+    "id": 553,
+    "joke": "Why do we say 'Ghar ka khana' (Home food) is the best, and then order Butter Chicken from outside every weekend?",
+    "language": "english"
+  },
+  {
+    "id": 554,
+    "joke": "The 'WiFi Password' is usually a complex string of characters that the owner has written on a tiny piece of paper lost in a drawer.",
+    "language": "english"
+  },
+  {
+    "id": 555,
+    "joke": "My mom cleans the house before the maid comes. 'What will she think if it is dirty?' Logic 100.",
+    "language": "english"
+  },
+  {
+    "id": 556,
+    "joke": "The 'School Tie' was used for everything: wiping sweat, cleaning glasses, and strangling friends.",
+    "language": "english"
+  },
+  {
+    "id": 557,
+    "joke": "Why do we put covers on car steering wheels? To make it thicker and harder to hold? Fashion over safety.",
+    "language": "english"
+  },
+  {
+    "id": 558,
+    "joke": "The 'Duplicate Key' maker on the street side can open any lock in the world. He is a wizard.",
+    "language": "english"
+  },
+  {
+    "id": 559,
+    "joke": "I told my boss 'I will get back to you'. I never got back. It is the corporate way of ghosting.",
+    "language": "english"
+  },
+  {
+    "id": 560,
+    "joke": "The 'Birthday Bump' is not a celebration. It is authorized assault by your friends.",
+    "language": "english"
+  },
+  {
+    "id": 561,
+    "joke": "Indian cars have airbags, but the real safety feature is the 'Nimbu-Mirchi' (Lemon-Chili) hanging on the bumper.",
+    "language": "english"
+  },
+  {
+    "id": 562,
+    "joke": "I went to the cinema and bought popcorn. I had to mortgage my house to pay for the 'Large Combo'.",
+    "language": "english"
+  },
+  {
+    "id": 563,
+    "joke": "The 'IRCTC Captcha' is the hardest entrance exam in India. 'Type the text'. The text looks like a doctor's prescription in Russian.",
+    "language": "english"
+  },
+  {
+    "id": 564,
+    "joke": "In India, we don't play 'Antakshari' for fun. We play to judge people who sing 'Mai' songs when the letter is 'M'.",
+    "language": "english"
+  },
+  {
+    "id": 565,
+    "joke": "My gym trainer told me to do 'Deadlifts'. I told him I already carry the burden of my parents' expectations.",
+    "language": "english"
+  },
+  {
+    "id": 566,
+    "joke": "Delhi Winter: People wearing 3 jackets, gloves, and a muffler. Mumbai Winter: People turn off the fan for 10 minutes.",
+    "language": "english"
+  },
+  {
+    "id": 567,
+    "joke": "The most intense staredown in history happens when two people spot the same empty seat on the Metro.",
+    "language": "english"
+  },
+  {
+    "id": 568,
+    "joke": "I told my grandmother I have a headache. She applied 'Zandu Balm' so close to my eyes that now I have a headache AND I am blind.",
+    "language": "english"
+  },
+  {
+    "id": 569,
+    "joke": "Indian 'Jugaad': Fixing a broken eyeglass frame with white tape and pretending it is a new fashion trend.",
+    "language": "english"
+  },
+  {
+    "id": 570,
+    "joke": "The 'Intermission' in an Indian movie is not for the bathroom. It is to discuss 'Who is the killer?' with your friend.",
+    "language": "english"
+  },
+  {
+    "id": 571,
+    "joke": "My friend is a 'Food Blogger'. He spends 15 minutes setting the angle. By the time we eat, the food is colder than his ex's heart.",
+    "language": "english"
+  },
+  {
+    "id": 572,
+    "joke": "Why do we lick the yogurt lid? Because we paid for the whole cup, including the part stuck to the foil.",
+    "language": "english"
+  },
+  {
+    "id": 573,
+    "joke": "The 'Shaktimaan' spin was the first dance move every Indian 90s kid learned.",
+    "language": "english"
+  },
+  {
+    "id": 574,
+    "joke": "I asked the auto driver 'Kitna loge?' (How much?). He looked at my clothes, my watch, and my shoes, then quoted the GDP of a small country.",
+    "language": "english"
+  },
+  {
+    "id": 575,
+    "joke": "Indian superstitions: If a black cat crosses your path, it means the animal is going somewhere. But we stop the car and pray.",
+    "language": "english"
+  },
+  {
+    "id": 576,
+    "joke": "The 'Free WiFi' at railway stations works great, if you want to download a file in the year 2050.",
+    "language": "english"
+  },
+  {
+    "id": 577,
+    "joke": "My dad thinks putting the phone in a bowl of rice fixes water damage. He treats electronics like Biryani ingredients.",
+    "language": "english"
+  },
+  {
+    "id": 578,
+    "joke": "The most dangerous phrase used by a Barber: 'Bas thoda sa adjust kar raha hoon' (Just adjusting a little). You are about to go bald.",
+    "language": "english"
+  },
+  {
+    "id": 579,
+    "joke": "I went to a South Indian wedding. I finished breakfast at 7 AM. By 8 AM, they were serving lunch. It was a marathon of eating.",
+    "language": "english"
+  },
+  {
+    "id": 580,
+    "joke": "Why do we keep 'Carry Bags' inside a bigger 'Carry Bag'? It is the Inception of plastics.",
+    "language": "english"
+  },
+  {
+    "id": 581,
+    "joke": "The 'Society Watchman' whistles at night not to scare thieves, but to let us know he is awake and bored.",
+    "language": "english"
+  },
+  {
+    "id": 582,
+    "joke": "I tried to explain 'Space X' to my uncle. He asked 'Is it better than Alto?'",
+    "language": "english"
+  },
+  {
+    "id": 583,
+    "joke": "Indian 'Pani Puri' vendors have the cleanest hands in the world. They dip them in 'Tamarind Water' 500 times a day. It is sanitizer.",
+    "language": "english"
+  },
+  {
+    "id": 584,
+    "joke": "The 'School Project' was never done by the student. It was a competition between the fathers of the class.",
+    "language": "english"
+  },
+  {
+    "id": 585,
+    "joke": "Why do we look at the gas cylinder regulator before leaving the house? To make sure it hasn't secretly turned itself on.",
+    "language": "english"
+  },
+  {
+    "id": 586,
+    "joke": "My mom's favorite yoga pose is 'Shavasana' (Corpse Pose). She does it every afternoon from 2 PM to 4 PM.",
+    "language": "english"
+  },
+  {
+    "id": 587,
+    "joke": "The 'Tatkal Ticket' booking experience: 9:59 AM - Logged in. 10:00 AM - Loading. 10:01 AM - Seats Full. 10:02 AM - Crying.",
+    "language": "english"
+  },
+  {
+    "id": 588,
+    "joke": "I saw a sign 'Work in Progress'. In India, that means 'Come back in 3 years'.",
+    "language": "english"
+  },
+  {
+    "id": 589,
+    "joke": "The 'Toothpick' at restaurants is used less for teeth and more for playing with while waiting for the bill.",
+    "language": "english"
+  },
+  {
+    "id": 590,
+    "joke": "Indian Moms can make a full dinner out of leftovers. She calls it 'Mix Veg'. We call it 'Fridge Cleaning'.",
+    "language": "english"
+  },
+  {
+    "id": 591,
+    "joke": "The 'Online Class' mute button is the only reason I still have a job.",
+    "language": "english"
+  },
+  {
+    "id": 592,
+    "joke": "Why do we say 'God Promise'? Because a regular promise has no market value in India.",
+    "language": "english"
+  },
+  {
+    "id": 593,
+    "joke": "The 'Petrol Pump' attendant asks 'Zero check kiya?' (Did you check zero?). It is the most important trust exercise in the country.",
+    "language": "english"
+  },
+  {
+    "id": 594,
+    "joke": "I bought a kindle. My dad asked 'Can we put a newspaper cover on it?' Old habits die hard.",
+    "language": "english"
+  },
+  {
+    "id": 595,
+    "joke": "The 'Street Dog' chasing you is scary. But the 'Street Dog' ignoring you hurts your ego.",
+    "language": "english"
+  },
+  {
+    "id": 596,
+    "joke": "Indian politicians and Indian roads have one thing in common: They both promise a smooth ride but deliver potholes.",
+    "language": "english"
+  },
+  {
+    "id": 597,
+    "joke": "My friend ordered 'Sushi'. He ate it with his hands and asked for 'Green Chutney'. The waiter fainted.",
+    "language": "english"
+  },
+  {
+    "id": 598,
+    "joke": "The 'Morning Walk' group of uncles discusses everything from World Politics to whose daughter-in-law wakes up late.",
+    "language": "english"
+  },
+  {
+    "id": 599,
+    "joke": "Why do we slap the TV remote? We believe in 'Violence against Electronics'.",
+    "language": "english"
+  },
+  {
+    "id": 600,
+    "joke": "The 'Geometry Box' compass was used for geometry 1% of the time and for carving names on the bench 99% of the time.",
+    "language": "english"
+  },
+  {
+    "id": 601,
+    "joke": "I went to a 'Hair Salon'. The guy washed my hair, massaged my head, cracked my neck, and almost realigned my chakras. Best Rs. 100 spent.",
+    "language": "english"
+  },
+  {
+    "id": 602,
+    "joke": "The 'Mosquito Bat' is the national sport of India in the evenings. The 'Zap' sound is satisfying.",
+    "language": "english"
+  },
+  {
+    "id": 603,
+    "joke": "Indian Guests: 'We are leaving.' *Stands up*. *Talks for 20 mins*. *Moves to door*. *Talks for 10 mins*. *Gate*. *Talks*. Finally leaves.",
+    "language": "english"
+  },
+  {
+    "id": 604,
+    "joke": "I tried to use 'Siri' with my Indian accent. She started Googling 'Recipes for Butter Chicken'. I was asking for the weather.",
+    "language": "english"
+  },
+  {
+    "id": 605,
+    "joke": "The 'Luggage Chain' on trains: We chain our bags to the seat like we are transporting gold bars, even if the bag only has dirty clothes.",
+    "language": "english"
+  },
+  {
+    "id": 606,
+    "joke": "Why do we have a 'Showcase' in the living room full of dolls and cups that we are forbidden to touch?",
+    "language": "english"
+  },
+  {
+    "id": 607,
+    "joke": "The 'Bus Conductor' has the best balance. He can walk through a moving bus without holding anything while counting cash.",
+    "language": "english"
+  },
+  {
+    "id": 608,
+    "joke": "My mom thinks 'Pizza' causes cold, cough, fever, and low marks. It is a biological weapon.",
+    "language": "english"
+  },
+  {
+    "id": 609,
+    "joke": "The 'Cricket Ball' falling in the neighbor's house is a diplomatic crisis. You need a negotiator to get it back.",
+    "language": "english"
+  },
+  {
+    "id": 610,
+    "joke": "I told my boss 'I am burnout'. He said 'Take a break, work on the PPT from home'.",
+    "language": "english"
+  },
+  {
+    "id": 611,
+    "joke": "The 'Vegetable Peeler' disappears exactly when you need to peel potatoes. It goes to Narnia.",
+    "language": "english"
+  },
+  {
+    "id": 612,
+    "joke": "Indian dads keep the phone ringtone on 'Maximum Volume'. When it rings, birds fly away in fear.",
+    "language": "english"
+  },
+  {
+    "id": 613,
+    "joke": "Why do we say 'Do one thing' (Ek kaam kar) when we are about to give a list of 5 things to do?",
+    "language": "english"
+  },
+  {
+    "id": 614,
+    "joke": "The 'Samosa' is triangular so that it fits perfectly in the corner of your mouth while you drive.",
+    "language": "english"
+  },
+  {
+    "id": 615,
+    "joke": "My friend's 'Ring Ceremony' had more photographers than guests. I felt like I was at a press conference.",
+    "language": "english"
+  },
+  {
+    "id": 616,
+    "joke": "The 'Ceiling Fan' at speed 5 sounds like a helicopter landing. We sleep peacefully through it.",
+    "language": "english"
+  },
+  {
+    "id": 617,
+    "joke": "I asked a stranger for a charger. He gave me his power bank. I think we are married now.",
+    "language": "english"
+  },
+  {
+    "id": 618,
+    "joke": "The 'Expiry Date' on pickle jars is a myth. Pickle lasts forever. It outlives civilizations.",
+    "language": "english"
+  },
+  {
+    "id": 619,
+    "joke": "Why do we stand up as soon as the flight lands? Do we want to help the pilot park the plane?",
+    "language": "english"
+  },
+  {
+    "id": 620,
+    "joke": "The 'News Anchor' screams so loud, I lower the volume to check if he is actually fighting with someone in my living room.",
+    "language": "english"
+  },
+  {
+    "id": 621,
+    "joke": "I tried to explain 'Minimalism' to my mom. She said 'Okay, let's start by throwing away your video games'. Backfired.",
+    "language": "english"
+  },
+  {
+    "id": 622,
+    "joke": "The 'Auto-Rickshaw' meter is the only machine in the world that runs faster than time itself.",
+    "language": "english"
+  },
+  {
+    "id": 623,
+    "joke": "Indian 'Traffic Jams' are great for productivity. I finished a podcast, wrote a book, and aged 5 years at Silk Board junction.",
+    "language": "english"
+  },
+  {
+    "id": 624,
+    "joke": "Why do we say 'Last price' while bargaining? We both know there are at least 3 more 'Last prices' to go.",
+    "language": "english"
+  },
+  {
+    "id": 625,
+    "joke": "The 'Newspaper' in the morning is not for reading. It is for checking which local shop has a sale.",
+    "language": "english"
+  },
+  {
+    "id": 626,
+    "joke": "My dad wears sunglasses indoors. He says 'It is style'. Mom says 'He forgot where he kept his regular glasses'.",
+    "language": "english"
+  },
+  {
+    "id": 627,
+    "joke": "The 'Water Filter' (RO) makes a weird noise at 3 AM. It sounds like it is purifying the souls of the house.",
+    "language": "english"
+  },
+  {
+    "id": 628,
+    "joke": "I went to a 'Destination Wedding'. The destination was just 50km away, but the traffic made it feel like another continent.",
+    "language": "english"
+  },
+  {
+    "id": 629,
+    "joke": "The 'Mobile Screen Guard' is cracked, but we don't change it. We scroll around the cracks. Adaptation.",
+    "language": "english"
+  },
+  {
+    "id": 630,
+    "joke": "Why do we have 'Guest Soap'? It is a tiny, fancy soap that smells like lavender and dissolves if you look at it.",
+    "language": "english"
+  },
+  {
+    "id": 631,
+    "joke": "The 'Tiffin Box' exchange in school was the first 'Barter System' we learned. 'I give you Aloo Bhindi, you give me Pasta'.",
+    "language": "english"
+  },
+  {
+    "id": 632,
+    "joke": "My mom's 'Tupperware' has a higher security clearance than nuclear codes. If I lose a lid, I have to leave the country.",
+    "language": "english"
+  },
+  {
+    "id": 633,
+    "joke": "The 'Blanket' in Indian AC trains is made of a material that keeps you cold in winter and hot in summer. It defies science.",
+    "language": "english"
+  },
+  {
+    "id": 634,
+    "joke": "I asked my friend 'Where are you?'. He sent a photo of a tree. Thanks, that really narrows it down.",
+    "language": "english"
+  },
+  {
+    "id": 635,
+    "joke": "The 'Temple Queue': We push and shove to get God's blessing. It's ironic.",
+    "language": "english"
+  },
+  {
+    "id": 636,
+    "joke": "Why do we use 'Old Toothbrushes' to clean combs and jewelry? They get a second life as cleaning tools.",
+    "language": "english"
+  },
+  {
+    "id": 637,
+    "joke": "The 'Elevator Mirror' is the most popular selfie spot. If you didn't take a photo, did you even go to work?",
+    "language": "english"
+  },
+  {
+    "id": 638,
+    "joke": "My dad explains directions using hands. 'Go straight (hand chop), take left (hand swerve), then huge building (hand circle)'.",
+    "language": "english"
+  },
+  {
+    "id": 639,
+    "joke": "The 'Courier Guy' calls you when he is outside your door. 'Sir, bell baja raha hoon' (Sir, I am ringing the bell).",
+    "language": "english"
+  },
+  {
+    "id": 640,
+    "joke": "I bought a 'Gym Ball'. I sit on it and eat chips. It counts as 'Active Sitting'.",
+    "language": "english"
+  },
+  {
+    "id": 641,
+    "joke": "The 'Office Laptop' takes 15 minutes to start. That is my meditation time.",
+    "language": "english"
+  },
+  {
+    "id": 642,
+    "joke": "Why do we ask 'Can I ask a doubt?' in class? You just asked one.",
+    "language": "english"
+  },
+  {
+    "id": 643,
+    "joke": "The 'Restaurant Bill' arrives. The group goes silent. Everyone pretends to check their phone calculators.",
+    "language": "english"
+  },
+  {
+    "id": 644,
+    "joke": "My mom's 'Saree Pleats' are mathematically perfect. She could teach geometry.",
+    "language": "english"
+  },
+  {
+    "id": 645,
+    "joke": "The 'Power Bank' is the modern life support system. If it dies, we die.",
+    "language": "english"
+  },
+  {
+    "id": 646,
+    "joke": "I told the tailor 'Make it tight'. He made it so tight I can't breathe. He said 'It is fashion'.",
+    "language": "english"
+  },
+  {
+    "id": 647,
+    "joke": "The 'Diwali Bonus' is a myth. We get a box of 'Soan Papdi' that has been circulating since 2010.",
+    "language": "english"
+  },
+  {
+    "id": 648,
+    "joke": "Why do we keep the 'User Manual'? We never read it. We just press all buttons until it works.",
+    "language": "english"
+  },
+  {
+    "id": 649,
+    "joke": "The 'Parking Guy' directs you: 'Aaja, aaja, aaja' (Come, come, come). *Bang*. 'Bas, bas' (Stop).",
+    "language": "english"
+  },
+  {
+    "id": 650,
+    "joke": "I tried to explain 'Gluten Free' to my maid. She brought me 'Roti' with extra butter. She thinks Gluten is a lack of butter.",
+    "language": "english"
+  },
+  {
+    "id": 651,
+    "joke": "The 'Balcony' is not for fresh air. It is for drying clothes and staring at neighbors.",
+    "language": "english"
+  },
+  {
+    "id": 652,
+    "joke": "My dad's wallet is 5 inches thick. It has receipts from 1985. 'You never know when you need proof of purchase for a toaster bought in 1990'.",
+    "language": "english"
+  },
+  {
+    "id": 653,
+    "joke": "The 'Coconut Water' guy cuts the coconut with a machete like a ninja. One wrong move and I lose an ear.",
+    "language": "english"
+  },
+  {
+    "id": 654,
+    "joke": "Why do we say 'Nice Name' when we meet someone? We don't care about the name. We just need filler words.",
+    "language": "english"
+  },
+  {
+    "id": 655,
+    "joke": "The 'WhatsApp Group' admin feels like the CEO of a Fortune 500 company. 'I will remove you' is their ultimate threat.",
+    "language": "english"
+  },
+  {
+    "id": 656,
+    "joke": "I went to a 'Silent Disco'. It was just a bunch of Indians dancing off-beat to different songs. Chaos in silence.",
+    "language": "english"
+  },
+  {
+    "id": 657,
+    "joke": "The 'Toll Booth' line is where you learn which lane moves the slowest. It is always the one you are in.",
+    "language": "english"
+  },
+  {
+    "id": 658,
+    "joke": "My mom checks the 'MRP' before checking the ingredients. 'It is expensive, so it must be healthy'.",
+    "language": "english"
+  },
+  {
+    "id": 659,
+    "joke": "The 'Street Light' outside my house flickers. It adds a horror movie vibe to my evening walk.",
+    "language": "english"
+  },
+  {
+    "id": 660,
+    "joke": "Why do we cover the car with a 'Car Cover' every night? To protect it from the moon? It takes 15 minutes to take off.",
+    "language": "english"
+  },
+  {
+    "id": 661,
+    "joke": "The most dangerous negotiation in the world is not by the FBI. It is by the Bride's sisters during the 'Juta Churai' (Shoe Stealing) ceremony.",
+    "language": "english"
+  },
+  {
+    "id": 662,
+    "joke": "Indian Office AC Wars: Half the office is sweating in the Sahara, the other half is freezing in Antarctica. The remote is the weapon of power.",
+    "language": "english"
+  },
+  {
+    "id": 663,
+    "joke": "I told my P.T. Teacher I have a stomach ache. He said 'Run 2 rounds, gas will pass'. Medical science is shaking.",
+    "language": "english"
+  },
+  {
+    "id": 664,
+    "joke": "The 'Guest Towel' is so soft and clean. I am scared to use it. I just wipe my hands on my pants and come out.",
+    "language": "english"
+  },
+  {
+    "id": 665,
+    "joke": "My mom's purse is a black hole. It contains keys, tissues, safety pins, almonds, and receipts from 2003. But she can never find her phone.",
+    "language": "english"
+  },
+  {
+    "id": 666,
+    "joke": "Why do Indian uncles chew paan and talk? It sounds like they are speaking in a secret underwater language.",
+    "language": "english"
+  },
+  {
+    "id": 667,
+    "joke": "The 'Trial Ball' in Gully Cricket is the only second chance you get in life. If you get out, it doesn't count. If you hit a six, it counts.",
+    "language": "english"
+  },
+  {
+    "id": 668,
+    "joke": "I bought a 'White Shirt'. My mom washed it with a red sock. Now I have a 'Pink Shirt'. She calls it 'Tie-Dye'.",
+    "language": "english"
+  },
+  {
+    "id": 669,
+    "joke": "The 'Bus Seat' reservation system: Putting a handkerchief through the window. It is legally binding.",
+    "language": "english"
+  },
+  {
+    "id": 670,
+    "joke": "My dad types on WhatsApp with one finger, staring at the screen like he is defusing a bomb.",
+    "language": "english"
+  },
+  {
+    "id": 671,
+    "joke": "The 'Street Food' plate is usually a piece of newspaper. You get news and chutney in one bite.",
+    "language": "english"
+  },
+  {
+    "id": 672,
+    "joke": "Why do we say 'Cut the call' instead of 'Hang up'? Because in the landline days, we literally cut the connection.",
+    "language": "english"
+  },
+  {
+    "id": 673,
+    "joke": "The 'Maid' (Bai) is the actual owner of the house. If she decides to take leave, the economy of the household collapses.",
+    "language": "english"
+  },
+  {
+    "id": 674,
+    "joke": "I went to a 'Fancy Hair Salon'. They charged Rs. 500 for a 'Stylist Cut'. I looked in the mirror and I still looked like a potato.",
+    "language": "english"
+  },
+  {
+    "id": 675,
+    "joke": "Indian 'Horror Stories' start with: 'My friend's cousin's neighbor went to a graveyard at night...'",
+    "language": "english"
+  },
+  {
+    "id": 676,
+    "joke": "The 'Mosquito Coil' holder is always lost. We balance the coil on a random bottle cap or a coin.",
+    "language": "english"
+  },
+  {
+    "id": 677,
+    "joke": "My mom's 'Tupperware' lid is missing. The house is under investigation. Interpol has been notified.",
+    "language": "english"
+  },
+  {
+    "id": 678,
+    "joke": "The 'Local Train' handles have germs from 1985. We hold them anyway because falling is worse than bacteria.",
+    "language": "english"
+  },
+  {
+    "id": 679,
+    "joke": "Why do we ask 'Aur sunao?' (Tell me more) on the phone? We have nothing to say, but we don't want to cut the call.",
+    "language": "english"
+  },
+  {
+    "id": 680,
+    "joke": "The 'Groom' arriving on a horse looks royal until the horse decides to stop for a snack in the middle of the procession.",
+    "language": "english"
+  },
+  {
+    "id": 681,
+    "joke": "I tried to make 'Chai' for my dad. He took one sip and asked 'Is this hot water with color?'",
+    "language": "english"
+  },
+  {
+    "id": 682,
+    "joke": "The 'Wedding Reception' stage is so bright with lights that the couple gets a tan by the end of the night.",
+    "language": "english"
+  },
+  {
+    "id": 683,
+    "joke": "Indian 'Road Humps' are unpainted. You hit them at 60kmph and your soul leaves your body for a second.",
+    "language": "english"
+  },
+  {
+    "id": 684,
+    "joke": "My friend said 'I am busy'. I checked his Steam profile. He has been playing 'Counter-Strike' for 6 hours.",
+    "language": "english"
+  },
+  {
+    "id": 685,
+    "joke": "The 'Tailor' always writes the measurements in a notebook that looks like it survived a war. And he still loses it.",
+    "language": "english"
+  },
+  {
+    "id": 686,
+    "joke": "Why do we put 'Cover' on the washing machine? Is it going to catch a cold?",
+    "language": "english"
+  },
+  {
+    "id": 687,
+    "joke": "The 'Bank Lunch Time' is a myth. It is a continuous loop. You enter at 11, it's lunch. You enter at 2, it's tea break.",
+    "language": "english"
+  },
+  {
+    "id": 688,
+    "joke": "I asked my mom for 'Space'. She said 'Clean your room, you will find lots of space'.",
+    "language": "english"
+  },
+  {
+    "id": 689,
+    "joke": "The 'Movie Ticket' price is Rs. 300. The 'Popcorn' price is Rs. 400. The 'Water Bottle' is Rs. 100. I should have just bought the cinema hall.",
+    "language": "english"
+  },
+  {
+    "id": 690,
+    "joke": "Indian 'Traffic' is the best place to observe human behavior. You see anger, acceptance, and people eating breakfast in cars.",
+    "language": "english"
+  },
+  {
+    "id": 691,
+    "joke": "My dad's 'Sneezing' style is not a reflex. It is an announcement. 'AAAA-CHOOO!' followed by a shiver.",
+    "language": "english"
+  },
+  {
+    "id": 692,
+    "joke": "The 'Cable Management' behind the TV is a bird's nest of wires. If you pull one, the lights in the neighbor's house might go off.",
+    "language": "english"
+  },
+  {
+    "id": 693,
+    "joke": "Why do we say 'Nice to meet you' to relatives we hate? It is called 'Sanskaar' (Culture).",
+    "language": "english"
+  },
+  {
+    "id": 694,
+    "joke": "The 'Coconut Oil' freezes in winter. You have to melt the bottle in hot water like you are conducting a science experiment.",
+    "language": "english"
+  },
+  {
+    "id": 695,
+    "joke": "I tried to follow a 'Youtube Recipe'. The chef said 'Add a pinch of salt'. I added a pinch. It tasted like paper.",
+    "language": "english"
+  },
+  {
+    "id": 696,
+    "joke": "The 'School Uniform' white shirt was white only on Monday morning. By Monday afternoon, it was ink-blue and dirt-brown.",
+    "language": "english"
+  },
+  {
+    "id": 697,
+    "joke": "Why do we look at the 'MRP' and then ask 'Discount hai kya?' (Is there a discount?). It is our birthright.",
+    "language": "english"
+  },
+  {
+    "id": 698,
+    "joke": "The 'Lift' fan is always broken. You suffocate for 30 seconds while staring awkwardly at a stranger.",
+    "language": "english"
+  },
+  {
+    "id": 699,
+    "joke": "My mom's 'Goodnight' routine involves checking if the main door is locked 5 times. Even if she just checked it.",
+    "language": "english"
+  },
+  {
+    "id": 700,
+    "joke": "The 'Auto Driver' sits at the edge of the seat. If he sits back, the auto will lose balance. Physics.",
+    "language": "english"
+  },
+  {
+    "id": 701,
+    "joke": "I bought a 'Bean Bag'. Now I am too lazy to get up from it. I live in the bean bag now.",
+    "language": "english"
+  },
+  {
+    "id": 702,
+    "joke": "The 'Relative' who gives you Rs. 500 when leaving is the favorite relative. The one who gives Rs. 100 is judged.",
+    "language": "english"
+  },
+  {
+    "id": 703,
+    "joke": "Why do we say 'Just 2 minutes' when we haven't even left the house? We are optimistic about teleportation.",
+    "language": "english"
+  },
+  {
+    "id": 704,
+    "joke": "The 'Hostel Mattress' is as thin as a roti. You can feel the bed frame counting your ribs.",
+    "language": "english"
+  },
+  {
+    "id": 705,
+    "joke": "I asked the 'Carpenter' to come at 10 AM. He came at 4 PM. He said 'Traffic'. He lives next door.",
+    "language": "english"
+  },
+  {
+    "id": 706,
+    "joke": "The 'Water Heater' switch is outside the bathroom. You have to yell 'Geyser band kar do!' (Turn off the geyser) while dripping wet.",
+    "language": "english"
+  },
+  {
+    "id": 707,
+    "joke": "Indian 'News Debates' have 10 panels windows. Everyone is shouting. Nobody can hear anything. It is modern art.",
+    "language": "english"
+  },
+  {
+    "id": 708,
+    "joke": "My dad wears 'White Shoes' for morning walks. He cleans them daily. They are cleaner than my conscience.",
+    "language": "english"
+  },
+  {
+    "id": 709,
+    "joke": "The 'Vegetable Chopping' board is used for everything. Chopping veggies, crushing ginger, and threatening kids.",
+    "language": "english"
+  },
+  {
+    "id": 710,
+    "joke": "Why do we put 'Newspaper' on shelves? To protect the wood? Or to read news from 2015 while cleaning?",
+    "language": "english"
+  },
+  {
+    "id": 711,
+    "joke": "The 'Metro Announcement': 'Doors will open on the left'. Everyone rushes to the left like the boat is sinking.",
+    "language": "english"
+  },
+  {
+    "id": 712,
+    "joke": "I tried to use 'Chopsticks' at an Asian restaurant. I ended up stabbing the sushi. I ate with my hands eventually.",
+    "language": "english"
+  },
+  {
+    "id": 713,
+    "joke": "The 'School Bell' ringing 5 minutes early was the greatest joy. It felt like getting out of prison on parole.",
+    "language": "english"
+  },
+  {
+    "id": 714,
+    "joke": "My mom thinks 'Headphones' cause ear infections, brain damage, and bad behavior. They are evil devices.",
+    "language": "english"
+  },
+  {
+    "id": 715,
+    "joke": "The 'Rickshaw' turns without signaling. The driver uses telepathy. You should have known he was turning.",
+    "language": "english"
+  },
+  {
+    "id": 716,
+    "joke": "Why do we say 'Adjust maadi' (Please adjust) in a bus seat meant for 2 people where 4 are already sitting?",
+    "language": "english"
+  },
+  {
+    "id": 717,
+    "joke": "The 'Online Delivery' box is huge. Inside is a tiny USB drive and 50 meters of bubble wrap.",
+    "language": "english"
+  },
+  {
+    "id": 718,
+    "joke": "I told my dad 'I am depressed'. He said 'Wake up at 5 AM, go for a walk, drink cow urine'. Thanks dad.",
+    "language": "english"
+  },
+  {
+    "id": 719,
+    "joke": "The 'Ceiling' in old houses has hooks for swings. Now we just use them to hang dried flowers.",
+    "language": "english"
+  },
+  {
+    "id": 720,
+    "joke": "Indian 'Soap Operas' zoom in on the face 5 times with 'Dhum Tana Nana' music. It takes 2 minutes to show one reaction.",
+    "language": "english"
+  },
+  {
+    "id": 721,
+    "joke": "My friend 'Treats' us only when he fails. When he passes, he disappears.",
+    "language": "english"
+  },
+  {
+    "id": 722,
+    "joke": "The 'Wedding Buffet' plate arrangement: Rice at the bottom, Curry on top, Roti on side, Sweet on top of curry. Chaos.",
+    "language": "english"
+  },
+  {
+    "id": 723,
+    "joke": "Why do we say 'Backside' of the building? Is there a 'Frontside'? Just say 'Back'.",
+    "language": "english"
+  },
+  {
+    "id": 724,
+    "joke": "The 'Car Horn' is used to say Hello, Move, Stop, Hurry Up, and Angry insults. It is a versatile instrument.",
+    "language": "english"
+  },
+  {
+    "id": 725,
+    "joke": "I bought 'Organic Vegetables'. They look like regular vegetables but cost 3 times more and rot in 1 day.",
+    "language": "english"
+  },
+  {
+    "id": 726,
+    "joke": "The 'Government Office' file moves slower than a glacier. You need to reincarnate to see it finished.",
+    "language": "english"
+  },
+  {
+    "id": 727,
+    "joke": "My mom's 'Slipper' has GPS tracking. No matter where I run, it finds me.",
+    "language": "english"
+  },
+  {
+    "id": 728,
+    "joke": "The 'Tea Stall' glass is small, but the 'Cutting Chai' hits harder than Red Bull.",
+    "language": "english"
+  },
+  {
+    "id": 729,
+    "joke": "I asked the 'Plumber' to fix the leak. He put M-Seal on it. It looks like chewing gum, but it holds the ocean back.",
+    "language": "english"
+  },
+  {
+    "id": 730,
+    "joke": "The 'Exam Paper' had questions I had never seen. I wrote answers the teacher had never seen. We are even.",
+    "language": "english"
+  },
+  {
+    "id": 731,
+    "joke": "Why do we keep the 'Plastic Wrap' on the remote? To keep it new? It feels like touching a raincoat.",
+    "language": "english"
+  },
+  {
+    "id": 732,
+    "joke": "The 'Local Bus' stops in the middle of the road. You have to jump out while it is still moving. It is an action movie.",
+    "language": "english"
+  },
+  {
+    "id": 733,
+    "joke": "My dad reads the 'Obituary' column first. He checks if anyone he knows has 'departed'. It is his morning social media.",
+    "language": "english"
+  },
+  {
+    "id": 734,
+    "joke": "The 'Gym Trainer' counts '1, 2, 3...'. Then he talks to a girl. Then he continues '4, 5...'. I held the weight for 5 minutes.",
+    "language": "english"
+  },
+  {
+    "id": 735,
+    "joke": "I told my mom 'I am full'. She put one more Roti on my plate. 'This is for your long life'. Emotional blackmail.",
+    "language": "english"
+  },
+  {
+    "id": 736,
+    "joke": "The 'Electrician' strips the wire with his teeth. He is immune to shock. He is Electro.",
+    "language": "english"
+  },
+  {
+    "id": 737,
+    "joke": "Why do we say 'Loose Motion'? Is there a 'Tight Motion'? It sounds like a mechanical failure.",
+    "language": "english"
+  },
+  {
+    "id": 738,
+    "joke": "The 'College Canteen' Samosa has more potato than the entire state of Punjab. The outer crust is just a formality.",
+    "language": "english"
+  },
+  {
+    "id": 739,
+    "joke": "My friend has a 'DSLR'. He takes photos of flowers, dogs, and trash cans. He calls it 'Art'.",
+    "language": "english"
+  },
+  {
+    "id": 740,
+    "joke": "The 'Rain' in India stops, but the 'Traffic' due to rain lasts for 3 days. The roads have memory.",
+    "language": "english"
+  },
+  {
+    "id": 741,
+    "joke": "I asked for 'Mineral Water'. The waiter brought a bottle with a broken seal. I looked at him. He looked at me. We both knew.",
+    "language": "english"
+  },
+  {
+    "id": 742,
+    "joke": "The 'Office Chair' squeaks. Every time I move, it sounds like I am farting. I sit statue-still now.",
+    "language": "english"
+  },
+  {
+    "id": 743,
+    "joke": "My mom's 'Spice Box' (Masala Dabba) has 7 compartments. It is the chemistry set of the kitchen.",
+    "language": "english"
+  },
+  {
+    "id": 744,
+    "joke": "The 'TTE' on the train looks at your ticket, looks at your face, looks at the ticket again. He suspects you are an imposter.",
+    "language": "english"
+  },
+  {
+    "id": 745,
+    "joke": "Why do we say 'Heavy Rain'? How much does it weigh? Just say 'It is pouring'.",
+    "language": "english"
+  },
+  {
+    "id": 746,
+    "joke": "The 'Laptop Charger' cable is always too short. I have to sit on the floor near the socket like a punished child.",
+    "language": "english"
+  },
+  {
+    "id": 747,
+    "joke": "I went to a 'Buffet'. I ate so much I couldn't walk. I took an auto for 500 meters. Profit loss statement: Negative.",
+    "language": "english"
+  },
+  {
+    "id": 748,
+    "joke": "The 'Watchman' salutes you only during Diwali. The rest of the year, he ignores your existence.",
+    "language": "english"
+  },
+  {
+    "id": 749,
+    "joke": "My dad's 'Phone Gallery' is full of 'Good Morning' roses and blurry photos of documents.",
+    "language": "english"
+  },
+  {
+    "id": 750,
+    "joke": "The 'Street Vendor' wraps the food in a paper that has your exam results on it. Life comes full circle.",
+    "language": "english"
+  },
+  {
+    "id": 751,
+    "joke": "I tried to 'Bargain' in a mall. I asked 'Discount?'. The cashier pointed to the sign 'Fixed Price'. I felt shame.",
+    "language": "english"
+  },
+  {
+    "id": 752,
+    "joke": "The 'Ceiling Fan' wobbles at high speed. It looks like it is going to detach and decapitate us. We sleep under it anyway.",
+    "language": "english"
+  },
+  {
+    "id": 753,
+    "joke": "Why do we say 'Passing the time'? Time is passing anyway. You are just existing.",
+    "language": "english"
+  },
+  {
+    "id": 754,
+    "joke": "The 'Mosquito' buzzes in your ear. You slap yourself. The mosquito flies away laughing.",
+    "language": "english"
+  },
+  {
+    "id": 755,
+    "joke": "My mom thinks 'Pizza' is just 'Roti with Sabzi on top'. She is technically not wrong.",
+    "language": "english"
+  },
+  {
+    "id": 756,
+    "joke": "The 'Cricket Match' is on. The streets are empty. It is a self-imposed curfew.",
+    "language": "english"
+  },
+  {
+    "id": 757,
+    "joke": "I bought 'Sunglasses'. I look like a blind man. My friend looks like Tom Cruise. Life is unfair.",
+    "language": "english"
+  },
+  {
+    "id": 758,
+    "joke": "The 'Office Meeting' could have been an email. We sat for 2 hours discussing 'Synergy'.",
+    "language": "english"
+  },
+  {
+    "id": 759,
+    "joke": "My dad checks the 'Car Tyres' by kicking them. 'Haan, hawa hai' (Yes, there is air). Accurate measurement.",
+    "language": "english"
+  },
+  {
+    "id": 760,
+    "joke": "The 'Train Toilet' door is so heavy you need bodybuilding training to open it.",
+    "language": "english"
+  },
+  {
+    "id": 761,
+    "joke": "Finding an 'Elaichi' (Cardamom) in your Biryani is the biggest trust betrayal in human history.",
+    "language": "english"
+  },
+  {
+    "id": 762,
+    "joke": "No party in India is complete until a drunk uncle gets on the floor and does the 'Naagin Dance'.",
+    "language": "english"
+  },
+  {
+    "id": 763,
+    "joke": "My dad's advice for every illness: 'Drink hot water'. Fever? Hot water. Fracture? Hot water. Bankruptcy? Hot water.",
+    "language": "english"
+  },
+  {
+    "id": 764,
+    "joke": "The 'Notice Period' in an Indian company is 3 months. It is longer than some celebrity marriages.",
+    "language": "english"
+  },
+  {
+    "id": 765,
+    "joke": "I went to a 'Saree Sale'. It was a contact sport. I saw an aunty tackle a security guard for a Kanjeevaram.",
+    "language": "english"
+  },
+  {
+    "id": 766,
+    "joke": "The 'OTP' never arrives when you are in a hurry. It arrives 20 minutes later when you are already asleep.",
+    "language": "english"
+  },
+  {
+    "id": 767,
+    "joke": "Why do we say 'Out of Station'? Are we trains? Just say 'Out of Town'.",
+    "language": "english"
+  },
+  {
+    "id": 768,
+    "joke": "My mom recycles 'Gift Envelopes'. I received an envelope on my birthday that had 'Best Wishes, Rakesh' crossed out and 'Happy Birthday' written on it.",
+    "language": "english"
+  },
+  {
+    "id": 769,
+    "joke": "The 'Project Manager' asks 'When can you deliver?'. I say 'Friday'. He hears 'Monday'. We compromise on 'Yesterday'.",
+    "language": "english"
+  },
+  {
+    "id": 770,
+    "joke": "Indian 'Traffic Police' don't wear body cams. They have 'Challan Books' that appear out of thin air.",
+    "language": "english"
+  },
+  {
+    "id": 771,
+    "joke": "I tried to explain 'Depression' to my dad. He said 'Stop waking up at 12 PM, depression will go away'.",
+    "language": "english"
+  },
+  {
+    "id": 772,
+    "joke": "The 'Hostel Warden' is stricter than a prison guard. 'Lights off at 10 PM'. But we are engineers, our day starts at 10 PM.",
+    "language": "english"
+  },
+  {
+    "id": 773,
+    "joke": "Why do we have 'Cans of Paint' from 2005 stored in the balcony? Are we planning to repaint a single square inch of the wall?",
+    "language": "english"
+  },
+  {
+    "id": 774,
+    "joke": "The 'Mobile Data' ends. The speed drops to 2G. Loading Google takes 4 business days.",
+    "language": "english"
+  },
+  {
+    "id": 775,
+    "joke": "My friend returned from the USA after 6 months. He now has an accent. He calls 'Tomato' as 'Toe-may-toe'. We slapped him back to factory settings.",
+    "language": "english"
+  },
+  {
+    "id": 776,
+    "joke": "The 'Vegetable Vendor' sprinkles water on the veggies to keep them fresh. By the evening, he is selling 50% vegetable, 50% water.",
+    "language": "english"
+  },
+  {
+    "id": 777,
+    "joke": "I ordered 'Hakka Noodles'. It was just Maggi with capsicum. I felt cheated but I ate it.",
+    "language": "english"
+  },
+  {
+    "id": 778,
+    "joke": "The 'Family Doctor' knows your entire history. 'You had a cold in 1998, remember?'. No doc, I was 2 years old.",
+    "language": "english"
+  },
+  {
+    "id": 779,
+    "joke": "Why do we keep the 'Sticker' on the new cap? To show it is authentic? It looks like you forgot to remove the price tag.",
+    "language": "english"
+  },
+  {
+    "id": 780,
+    "joke": "The 'Wedding Invitation' card is so thick and heavy, you could use it as a weapon for self-defense.",
+    "language": "english"
+  },
+  {
+    "id": 781,
+    "joke": "My dad watches news debates at full volume. 'The nation wants to know!'. Dad, the neighbors want to sleep.",
+    "language": "english"
+  },
+  {
+    "id": 782,
+    "joke": "The 'Pani Puri' guy asks 'Teekha ya Meetha?' (Spicy or Sweet?). If you say 'Meetha', society judges you.",
+    "language": "english"
+  },
+  {
+    "id": 783,
+    "joke": "I told my boss 'I have a doctor's appointment'. He asked 'Is it serious?'. I said 'Yes, I am sick of this job'.",
+    "language": "english"
+  },
+  {
+    "id": 784,
+    "joke": "The 'Indian Toilet' vs 'Western Toilet' debate in households is more heated than politics.",
+    "language": "english"
+  },
+  {
+    "id": 785,
+    "joke": "Why do we say 'Brother' to strangers? 'Auto Brother', 'Shopkeeper Brother'. We are a nation of siblings.",
+    "language": "english"
+  },
+  {
+    "id": 786,
+    "joke": "The 'Electricity Bill' comes. My dad turns off the lights, the fan, the fridge, and tells us to stop breathing to save energy.",
+    "language": "english"
+  },
+  {
+    "id": 787,
+    "joke": "I went to a 'Club'. The DJ played 'Punjabi Music'. Then 'EDM'. Then 'Bollywood'. It was a musical khichdi.",
+    "language": "english"
+  },
+  {
+    "id": 788,
+    "joke": "The 'Gym' subscription is for 1 year. I went for 3 days. Cost per visit: Rs. 5000.",
+    "language": "english"
+  },
+  {
+    "id": 789,
+    "joke": "My mom puts 'Newspaper' in the shelves. She changes it every Diwali. I read news from last year while cleaning.",
+    "language": "english"
+  },
+  {
+    "id": 790,
+    "joke": "The 'Bus Driver' brakes suddenly. The standing passengers fly to the front. 'Ticket ticket!'. No, we are flying.",
+    "language": "english"
+  },
+  {
+    "id": 791,
+    "joke": "I asked for 'Wi-Fi Password'. The waiter said '12345678'. I asked 'Is it safe?'. He said 'Sir, nobody hacks the Dosa corner'.",
+    "language": "english"
+  },
+  {
+    "id": 792,
+    "joke": "The 'Indian Flag' on Independence Day is everywhere. On the car, on the bike, on the shirt. On August 16th, it is nowhere.",
+    "language": "english"
+  },
+  {
+    "id": 793,
+    "joke": "My dad thinks 'Video Games' break the TV. 'The pixels will burn!'. Dad, it is an LED TV.",
+    "language": "english"
+  },
+  {
+    "id": 794,
+    "joke": "The 'Street Dog' barks at the car tyres. He hates MRF ZLX for some reason.",
+    "language": "english"
+  },
+  {
+    "id": 795,
+    "joke": "I tried to make 'Round Roti'. It turned into a triangle. I told my mom it is a 'Paratha'. Adaptation.",
+    "language": "english"
+  },
+  {
+    "id": 796,
+    "joke": "The 'Government Hospital' queue. You age 10 years while waiting for a slip.",
+    "language": "english"
+  },
+  {
+    "id": 797,
+    "joke": "Why do we say 'Good name?' (Shubh Naam). Is there a 'Bad name'?",
+    "language": "english"
+  },
+  {
+    "id": 798,
+    "joke": "The 'Auto' rear view mirror is turned inwards so the driver can look at himself. He doesn't care about traffic behind him.",
+    "language": "english"
+  },
+  {
+    "id": 799,
+    "joke": "My mom's 'Sewing Kit' is in a 'Danish Cookies' tin. I open it expecting cookies, I find needles. Disappointment.",
+    "language": "english"
+  },
+  {
+    "id": 800,
+    "joke": "The 'Online Shopping' return policy. 'Keep the item, we will refund you'. I feel like a thief.",
+    "language": "english"
+  },
+  {
+    "id": 801,
+    "joke": "I asked my dad for 'Pocket Money'. He asked for a 'Business Plan'.",
+    "language": "english"
+  },
+  {
+    "id": 802,
+    "joke": "The 'School Water Cooler'. The water tasted like steel and friendship.",
+    "language": "english"
+  },
+  {
+    "id": 803,
+    "joke": "Why do we say 'Simply' when asked 'What are you doing?'. 'Simply sitting'. It is a state of being.",
+    "language": "english"
+  },
+  {
+    "id": 804,
+    "joke": "The 'Barber' asks 'Massage?'. He cracks your neck. You see heaven for a second. 'Rs. 50 sir'.",
+    "language": "english"
+  },
+  {
+    "id": 805,
+    "joke": "My friend's 'Ring tone' is a crying baby. Everyone looks around in panic. He just answers 'Hello?'. Psychopath.",
+    "language": "english"
+  },
+  {
+    "id": 806,
+    "joke": "The 'Tea' at the railway station is so hot it melts the cup. You have to drink it in 2 seconds before the train starts.",
+    "language": "english"
+  },
+  {
+    "id": 807,
+    "joke": "I went to a 'Hill Station'. Everyone was eating Maggi. It is the national food of mountains.",
+    "language": "english"
+  },
+  {
+    "id": 808,
+    "joke": "The 'Resort' photos showed a swimming pool. In reality, it was a large bathtub with 10 people in it.",
+    "language": "english"
+  },
+  {
+    "id": 809,
+    "joke": "Why do we use 'Horn' at a red light? Do we think the sound waves will turn the light green?",
+    "language": "english"
+  },
+  {
+    "id": 810,
+    "joke": "The 'Office Canteen' food. Monday: Dal. Tuesday: Dal. Wednesday: Dal with Tadka. Innovation.",
+    "language": "english"
+  },
+  {
+    "id": 811,
+    "joke": "My dad's 'Sneakers' are white New Balance. He is ready to mow a lawn, but we live in an apartment.",
+    "language": "english"
+  },
+  {
+    "id": 812,
+    "joke": "The 'Toll Plaza' Fastag line is slower than the Cash line. Technology is amazing.",
+    "language": "english"
+  },
+  {
+    "id": 813,
+    "joke": "I told my mom 'I am going vegan'. She said 'Good, Paneer is expensive anyway'.",
+    "language": "english"
+  },
+  {
+    "id": 814,
+    "joke": "The 'Society Meeting'. Uncle 1: 'Water issue'. Uncle 2: 'Parking issue'. Uncle 3: 'Who threw garbage from the balcony?'. War ensues.",
+    "language": "english"
+  },
+  {
+    "id": 815,
+    "joke": "Why do we say 'Foreign Return'? As if they returned from Mars. 'My cousin is foreign return'.",
+    "language": "english"
+  },
+  {
+    "id": 816,
+    "joke": "The 'Luggage Trolley' at the airport. One wheel always spins in the wrong direction. You drift like a rally car.",
+    "language": "english"
+  },
+  {
+    "id": 817,
+    "joke": "I tried to use 'Chopsticks'. I flicked a peanut into the next table's soup. I apologized and left.",
+    "language": "english"
+  },
+  {
+    "id": 818,
+    "joke": "The 'Dentist' asks questions while his hands are in your mouth. 'So, what do you do?'. 'Aggghhh ghhhuuu'.",
+    "language": "english"
+  },
+  {
+    "id": 819,
+    "joke": "My mom's 'Whatsapp Status' is a video of a flower blooming with 'Good Morning' written in glitter font.",
+    "language": "english"
+  },
+  {
+    "id": 820,
+    "joke": "The 'Courier' needs an OTP. I give him the OTP. He says 'Wrong OTP'. We stare at each other. It is a standoff.",
+    "language": "english"
+  },
+  {
+    "id": 821,
+    "joke": "I bought 'Slim Fit' jeans. I can't bend my knees. I walk like a penguin. Fashion.",
+    "language": "english"
+  },
+  {
+    "id": 822,
+    "joke": "The 'Movie' starts. The national anthem plays. We stand up. The guy with the popcorn struggles to balance patriotism and snacks.",
+    "language": "english"
+  },
+  {
+    "id": 823,
+    "joke": "Why do we say 'Keep in touch' to school friends? We never keep in touch. We just like their photos once a year.",
+    "language": "english"
+  },
+  {
+    "id": 824,
+    "joke": "The 'Power Cut' happens. We check if the neighbors have power. If they do, it is a personal tragedy. If they don't, we relax.",
+    "language": "english"
+  },
+  {
+    "id": 825,
+    "joke": "I ordered 'Coffee' at a South Indian wedding. It came in a steel tumbler so hot I burned my fingerprints off.",
+    "language": "english"
+  },
+  {
+    "id": 826,
+    "joke": "The 'Hotel Key Card' never works on the first try. You have to swipe it slow, fast, wiggle it. It is a skill.",
+    "language": "english"
+  },
+  {
+    "id": 827,
+    "joke": "My dad asks 'Who is this?' to every actor on TV. 'Is he Amitabh's son?'. No dad, that is Tom Cruise.",
+    "language": "english"
+  },
+  {
+    "id": 828,
+    "joke": "The 'Rain' starts. The 'Dish TV' signal goes. We stare at the 'No Signal' screen like it is a show.",
+    "language": "english"
+  },
+  {
+    "id": 829,
+    "joke": "I asked for 'Directions'. The uncle said 'Go straight, then left, then ask someone else'. He passed the responsibility.",
+    "language": "english"
+  },
+  {
+    "id": 830,
+    "joke": "The 'Exam Result' day. Relatives call you who haven't spoken to you in 5 years. 'How much percentage?'.",
+    "language": "english"
+  },
+  {
+    "id": 831,
+    "joke": "Why do we have 'Show Towels' in the bathroom that we are not allowed to use?",
+    "language": "english"
+  },
+  {
+    "id": 832,
+    "joke": "The 'Auto' doesn't have a meter. The driver calculates the fare based on your face and the position of the moon.",
+    "language": "english"
+  },
+  {
+    "id": 833,
+    "joke": "I tried to 'Bake a Cake'. It turned out hard as a brick. We used it as a doorstopper.",
+    "language": "english"
+  },
+  {
+    "id": 834,
+    "joke": "The 'Online Meeting'. 'Am I audible?'. 'Yes'. 'Can you see my screen?'. 'Yes'. 'Okay, let's start'. Connection lost.",
+    "language": "english"
+  },
+  {
+    "id": 835,
+    "joke": "My mom's 'Alarm' is her voice screaming 'Uth ja!'. It is more effective than any app.",
+    "language": "english"
+  },
+  {
+    "id": 836,
+    "joke": "The 'Bus' is full. You stand on one leg. The bus turns. You dance like Michael Jackson to keep balance.",
+    "language": "english"
+  },
+  {
+    "id": 837,
+    "joke": "Why do we put 'Lemon and Chili' on new cars? To protect it from accidents? Or to make a salad in an emergency?",
+    "language": "english"
+  },
+  {
+    "id": 838,
+    "joke": "The 'Wedding Photographer' blinds you with the flash. You see white spots for the next 3 days.",
+    "language": "english"
+  },
+  {
+    "id": 839,
+    "joke": "I asked for 'Extra Ketchup'. The McDonald's guy gave me one packet. I felt rationed.",
+    "language": "english"
+  },
+  {
+    "id": 840,
+    "joke": "The 'Train Fan' doesn't rotate. It just vibrates aggressively.",
+    "language": "english"
+  },
+  {
+    "id": 841,
+    "joke": "My dad's 'Phone Password' is '1234'. He says 'Who will steal my data?'. Dad, your bank account is on there.",
+    "language": "english"
+  },
+  {
+    "id": 842,
+    "joke": "The 'Street Cricket' rule. If the ball goes into the 'Grumpy Uncle's' house, the game is over.",
+    "language": "english"
+  },
+  {
+    "id": 843,
+    "joke": "I went to a 'Buffet'. I saw a guy stacking chicken on his plate like a Jenga tower. Respect.",
+    "language": "english"
+  },
+  {
+    "id": 844,
+    "joke": "The 'Lift' buttons. We press the button even if it is already lit. We think it makes the lift come faster.",
+    "language": "english"
+  },
+  {
+    "id": 845,
+    "joke": "My mom buys 'Vegetables' in bulk. 'It was cheap'. Now we eat Cabbage for 7 days.",
+    "language": "english"
+  },
+  {
+    "id": 846,
+    "joke": "The 'Link Aadhaar' message. It pops up everywhere. Bank, Phone, Tinder. 'Link Aadhaar to find a match'.",
+    "language": "english"
+  },
+  {
+    "id": 847,
+    "joke": "I asked the 'Waiter' for the WiFi password. He typed it in my phone himself. He didn't trust me with the secret.",
+    "language": "english"
+  },
+  {
+    "id": 848,
+    "joke": "The 'Raincoat' smells of old rubber and despair. But it keeps you dry.",
+    "language": "english"
+  },
+  {
+    "id": 849,
+    "joke": "My dad checks the 'Lock' on the car door by pulling the handle so hard he almost rips it off.",
+    "language": "english"
+  },
+  {
+    "id": 850,
+    "joke": "The 'Exam Invigilator' walks slowly between the desks. He stops near you. Your heart stops. He moves on.",
+    "language": "english"
+  },
+  {
+    "id": 851,
+    "joke": "Why do we say 'Time is Money'? But then we spend 2 hours bargaining to save Rs. 50.",
+    "language": "english"
+  },
+  {
+    "id": 852,
+    "joke": "The 'Sofa' has plastic covers on the armrests. It sticks to your skin in summer. It is a trap.",
+    "language": "english"
+  },
+  {
+    "id": 853,
+    "joke": "I asked for 'Mineral Water'. The bottle cost Rs. 60. I drank it like it was holy water.",
+    "language": "english"
+  },
+  {
+    "id": 854,
+    "joke": "The 'Auto Driver' says 'Change nahi hai' (No change). You give him Rs. 10 extra. He wins.",
+    "language": "english"
+  },
+  {
+    "id": 855,
+    "joke": "My mom's 'Handbag' is heavy. She carries the weight of the world and a water bottle in it.",
+    "language": "english"
+  },
+  {
+    "id": 856,
+    "joke": "The 'Flight' lands. Everyone claps. Why? Did we think we weren't going to make it?",
+    "language": "english"
+  },
+  {
+    "id": 857,
+    "joke": "I tried to 'Diet'. I saw a Samosa. The diet ended. It was a short life.",
+    "language": "english"
+  },
+  {
+    "id": 858,
+    "joke": "The 'Train' is late by 4 hours. The announcement says 'Inconvenience is regretted'. We are used to it.",
+    "language": "english"
+  },
+  {
+    "id": 859,
+    "joke": "My dad wears 'Socks' with sandals. It is the ultimate dad fashion statement.",
+    "language": "english"
+  },
+  {
+    "id": 860,
+    "joke": "The 'Vegetable Vendor' gives you free 'Curry Leaves'. It is the loyalty program of the street.",
+    "language": "english"
+  },
+
+  {
+    "id": 861,
+    "joke": "I told my mom I want to start a business. She turned into a Shark Tank judge. 'Where is the revenue? Why is your room dirty? I am out.'",
+    "language": "english"
+  },
+  {
+    "id": 862,
+    "joke": "The 'General Bogie' in Indian trains has its own ecosystem. People sleep on the floor, on the luggage rack, and sometimes levitate in the air due to lack of space.",
+    "language": "english"
+  },
+  {
+    "id": 863,
+    "joke": "My dad uses his index finger to type on the phone with the force of a hammer. He is not typing, he is punishing the screen.",
+    "language": "english"
+  },
+  {
+    "id": 864,
+    "joke": "In India, 'Full Cream Milk' is a luxury. 'Toned Milk' is water with white coloring. 'Double Toned' is just a memory of a cow.",
+    "language": "english"
+  },
+  {
+    "id": 865,
+    "joke": "The 'Resort' swimming pool had so much chlorine, I came out bleached white. I looked like Michael Jackson.",
+    "language": "english"
+  },
+  {
+    "id": 866,
+    "joke": "Why do Indian shops put 'Fixed Price' signs? To test our willpower. We still ask 'Bhaiya, kuch kam karo' (Brother, lower it a bit).",
+    "language": "english"
+  },
+  {
+    "id": 867,
+    "joke": "The 'Office Laptop' battery lasts 15 minutes. It is a desktop with a mood swing.",
+    "language": "english"
+  },
+  {
+    "id": 868,
+    "joke": "I asked the 'Auto Driver' to go by the meter. He laughed so hard he choked on his chai.",
+    "language": "english"
+  },
+  {
+    "id": 869,
+    "joke": "The 'Street Light' turns on at 6 PM and turns off at 6:05 PM. It is on a strict diet of electricity.",
+    "language": "english"
+  },
+  {
+    "id": 870,
+    "joke": "My mom's 'Good Morning' messages have escalated. Now they include 4K videos of waterfalls with flute music.",
+    "language": "english"
+  },
+  {
+    "id": 871,
+    "joke": "The 'Wedding Gift' envelope is empty. I forgot to put money in it. I am now a fugitive.",
+    "language": "english"
+  },
+  {
+    "id": 872,
+    "joke": "Why do we say 'Timepass' when eating peanuts? Because shelling them takes longer than eating them.",
+    "language": "english"
+  },
+  {
+    "id": 873,
+    "joke": "The 'Rickshaw' has a sound system better than a nightclub. Bass boosted 'Kumar Sanu' songs at 9 AM.",
+    "language": "english"
+  },
+  {
+    "id": 874,
+    "joke": "I tried to 'Google' my symptoms. It said I have 3 hours to live. It was just gas.",
+    "language": "english"
+  },
+  {
+    "id": 875,
+    "joke": "The 'School Assembly' prayer was the only time we closed our eyes, not to pray, but to sleep while standing.",
+    "language": "english"
+  },
+  {
+    "id": 876,
+    "joke": "Indian 'Traffic' is a mix of cars, bikes, cows, dogs, and pedestrians playing Frogger.",
+    "language": "english"
+  },
+  {
+    "id": 877,
+    "joke": "My dad's 'Sneezing' wakes up the neighbors. They think a bomb went off.",
+    "language": "english"
+  },
+  {
+    "id": 878,
+    "joke": "The 'Power Bank' cable is tangled. It looks like a snake knot. I spent 20 minutes untying it.",
+    "language": "english"
+  },
+  {
+    "id": 879,
+    "joke": "I went to a 'Buffet'. I ate 10 plates. The manager offered me money to leave.",
+    "language": "english"
+  },
+  {
+    "id": 880,
+    "joke": "The 'Vegetable Vendor' gives you 'Free Chili' like it is gold bullion. 'Take it, enjoy'.",
+    "language": "english"
+  },
+  {
+    "id": 881,
+    "joke": "Why do we say 'Backside' of the shop? Is the shop a person?",
+    "language": "english"
+  },
+  {
+    "id": 882,
+    "joke": "The 'Online Class' video freezes. The teacher's face is stuck in a funny expression. We take screenshots.",
+    "language": "english"
+  },
+  {
+    "id": 883,
+    "joke": "My mom thinks 'Video Games' are the reason for Global Warming. 'You play too much, the earth is heating up'.",
+    "language": "english"
+  },
+  {
+    "id": 884,
+    "joke": "The 'Bus Conductor' has a whistle. He blows it for everything. Stop, Go, Move, Breathe.",
+    "language": "english"
+  },
+  {
+    "id": 885,
+    "joke": "I asked for 'Extra Cheese' on my Pizza. They put one shred of cheese. I felt insulted.",
+    "language": "english"
+  },
+  {
+    "id": 886,
+    "joke": "The 'Mosquito' bites you on the knuckle. It is the most painful place. Calculated attack.",
+    "language": "english"
+  },
+  {
+    "id": 887,
+    "joke": "Why do we put 'Newspaper' on the shelves? To read old news while searching for the turmeric powder?",
+    "language": "english"
+  },
+  {
+    "id": 888,
+    "joke": "The 'Raincoat' makes you sweat more than the rain wets you. It is a sauna suit.",
+    "language": "english"
+  },
+  {
+    "id": 889,
+    "joke": "My dad checks the 'Lock' on the door 3 times. 'Click, Click, Click'. Security check complete.",
+    "language": "english"
+  },
+  {
+    "id": 890,
+    "joke": "The 'Exam Paper' was in Greek. I wrote in Latin. We communicated in ancient tongues.",
+    "language": "english"
+  },
+  {
+    "id": 891,
+    "joke": "I told my mom 'I am full'. She said 'Eat one more for my sake'. Emotional blackmail at the dining table.",
+    "language": "english"
+  },
+  {
+    "id": 892,
+    "joke": "The 'Electrician' fixes the fan with a piece of cardboard. 'It will work for 10 years'. Engineering.",
+    "language": "english"
+  },
+  {
+    "id": 893,
+    "joke": "Why do we say 'Loose Motion'? Is there a 'Tight Motion'? It sounds mechanical.",
+    "language": "english"
+  },
+  {
+    "id": 894,
+    "joke": "The 'College Canteen' Samosa is 90% potato, 10% hope.",
+    "language": "english"
+  },
+  {
+    "id": 895,
+    "joke": "My friend has a 'DSLR'. He takes photos of dustbins. 'It is aesthetic'.",
+    "language": "english"
+  },
+  {
+    "id": 896,
+    "joke": "The 'Rain' stops. The 'Traffic' starts. It is a cause and effect relationship.",
+    "language": "english"
+  },
+  {
+    "id": 897,
+    "joke": "I asked for 'Mineral Water'. The waiter brought a bottle that looked refilled. I drank it with suspicion.",
+    "language": "english"
+  },
+  {
+    "id": 898,
+    "joke": "The 'Office Chair' makes a noise. Everyone looks. I pretend to be working hard.",
+    "language": "english"
+  },
+  {
+    "id": 899,
+    "joke": "My mom's 'Spice Box' is a treasure chest. It has spices from 1990. 'Vintage Masala'.",
+    "language": "english"
+  },
+  {
+    "id": 900,
+    "joke": "The 'TTE' checks the ticket. He looks at me. He looks at the photo. He sighs. I pass.",
+    "language": "english"
+  },
+  {
+    "id": 901,
+    "joke": "Why do we say 'Heavy Rain'? Is it weighing down the earth?",
+    "language": "english"
+  },
+  {
+    "id": 902,
+    "joke": "The 'Laptop Charger' is too short. I sit near the plug point like a dog on a leash.",
+    "language": "english"
+  },
+  {
+    "id": 903,
+    "joke": "I went to a 'Buffet'. I ate till I couldn't breathe. Value for money achieved.",
+    "language": "english"
+  },
+  {
+    "id": 904,
+    "joke": "The 'Watchman' ignores me all year. On Diwali, he salutes me like I am the President.",
+    "language": "english"
+  },
+  {
+    "id": 905,
+    "joke": "My dad's 'Phone Gallery' is full of blurry photos of newspapers. He archives news.",
+    "language": "english"
+  },
+  {
+    "id": 906,
+    "joke": "The 'Street Vendor' wraps food in exam papers. I ate Bhel Puri on a Physics question paper.",
+    "language": "english"
+  },
+  {
+    "id": 907,
+    "joke": "I tried to 'Bargain' at a mall. The cashier looked at me with pity. 'Sir, this is H&M'.",
+    "language": "english"
+  },
+  {
+    "id": 908,
+    "joke": "The 'Ceiling Fan' wobbles. It threatens to fall. We sleep under the danger.",
+    "language": "english"
+  },
+  {
+    "id": 909,
+    "joke": "Why do we say 'Passing Time'? Time passes us. We are stationary.",
+    "language": "english"
+  },
+  {
+    "id": 910,
+    "joke": "The 'Mosquito' buzzes. I slap my face. The mosquito laughs.",
+    "language": "english"
+  },
+  {
+    "id": 911,
+    "joke": "My mom thinks 'Pizza' is unhealthy. She serves 'Fried Bhatura'. 'This is homemade'. Logic.",
+    "language": "english"
+  },
+  {
+    "id": 912,
+    "joke": "The 'Cricket Match' stops traffic. Even the ambulance driver checks the score.",
+    "language": "english"
+  },
+  {
+    "id": 913,
+    "joke": "I bought 'Sunglasses'. I look like a bug. My friend looks like a movie star.",
+    "language": "english"
+  },
+  {
+    "id": 914,
+    "joke": "The 'Office Meeting' was boring. I drew doodles. It was my best work.",
+    "language": "english"
+  },
+  {
+    "id": 915,
+    "joke": "My dad kicks the 'Tyre' to check air. 'Sounds solid'. Scientific method.",
+    "language": "english"
+  },
+  {
+    "id": 916,
+    "joke": "The 'Train Toilet' door is heavy. You need muscles to open it.",
+    "language": "english"
+  },
+  {
+    "id": 917,
+    "joke": "The 'Remote Control' works if you hit it. Violence solves technical issues.",
+    "language": "english"
+  },
+  {
+    "id": 918,
+    "joke": "I asked for 'Water' at a restaurant. They brought 'Bottled Water'. I said 'Regular'. They judged me.",
+    "language": "english"
+  },
+  {
+    "id": 919,
+    "joke": "The 'Bus' turns. We lean. It is a group dance.",
+    "language": "english"
+  },
+  {
+    "id": 920,
+    "joke": "Why do we put 'Lemon' on cars? To ward off evil or to make lemonade in traffic?",
+    "language": "english"
+  },
+  {
+    "id": 921,
+    "joke": "The 'Wedding Photographer' flashes the light. I am blind for 5 minutes.",
+    "language": "english"
+  },
+  {
+    "id": 922,
+    "joke": "I asked for 'Ketchup'. They gave one sachet. I have 20 fries. Math error.",
+    "language": "english"
+  },
+  {
+    "id": 923,
+    "joke": "The 'Train Fan' vibrates. It generates noise, not air.",
+    "language": "english"
+  },
+  {
+    "id": 924,
+    "joke": "My dad's 'Password' is '12345'. 'Hackers won't guess it'. Yes they will, Dad.",
+    "language": "english"
+  },
+  {
+    "id": 925,
+    "joke": "The 'Street Cricket' ball goes into the drain. We fish it out. We play on. Dedication.",
+    "language": "english"
+  },
+  {
+    "id": 926,
+    "joke": "I went to a 'Buffet'. I built a food tower. It collapsed. Tragedy.",
+    "language": "english"
+  },
+  {
+    "id": 927,
+    "joke": "The 'Lift Button' is pressed 10 times. It doesn't come faster. Psychology.",
+    "language": "english"
+  },
+  {
+    "id": 928,
+    "joke": "My mom buys 'Bulk Vegetables'. We eat cauliflower for a week.",
+    "language": "english"
+  },
+  {
+    "id": 929,
+    "joke": "The 'Aadhaar Link' message. It haunts my dreams.",
+    "language": "english"
+  },
+  {
+    "id": 930,
+    "joke": "I asked the 'Waiter' for WiFi. He entered it secretly. Top secret clearance.",
+    "language": "english"
+  },
+  {
+    "id": 931,
+    "joke": "The 'Raincoat' smells rubbery. I smell like a tire.",
+    "language": "english"
+  },
+  {
+    "id": 932,
+    "joke": "My dad checks the 'Door Lock' by pulling it off the hinges.",
+    "language": "english"
+  },
+  {
+    "id": 933,
+    "joke": "The 'Invigilator' stares at me. I stare at the paper. Awkward.",
+    "language": "english"
+  },
+  {
+    "id": 934,
+    "joke": "Why do we say 'Time is Money' then waste time bargaining?",
+    "language": "english"
+  },
+  {
+    "id": 935,
+    "joke": "The 'Sofa Cover' is plastic. It sticks to my legs. Summer torture.",
+    "language": "english"
+  },
+  {
+    "id": 936,
+    "joke": "I asked for 'Mineral Water'. It cost Rs. 50. I sipped it slowly.",
+    "language": "english"
+  },
+  {
+    "id": 937,
+    "joke": "The 'Auto Driver' has no change. I lose Rs. 5. He wins.",
+    "language": "english"
+  },
+  {
+    "id": 938,
+    "joke": "My mom's 'Handbag' is a weapon. It swings and hits people.",
+    "language": "english"
+  },
+  {
+    "id": 939,
+    "joke": "The 'Flight' lands. We clap. Pilot is confused.",
+    "language": "english"
+  },
+  {
+    "id": 940,
+    "joke": "I tried to 'Diet'. I saw a Gulab Jamun. I failed.",
+    "language": "english"
+  },
+  {
+    "id": 941,
+    "joke": "The 'Train' is late. 'Inconvenience Regretted'. We know.",
+    "language": "english"
+  },
+  {
+    "id": 942,
+    "joke": "My dad wears 'Socks' with sandals. Fashion icon.",
+    "language": "english"
+  },
+  {
+    "id": 943,
+    "joke": "The 'Vegetable Vendor' gives free Curry Leaves. I feel rich.",
+    "language": "english"
+  },
+  {
+    "id": 944,
+    "joke": "I told my mom I want to be a 'Stand-up Comedian'. She said 'You are already a joke'.",
+    "language": "english"
+  },
+  {
+    "id": 945,
+    "joke": "The 'Indian Toilet' requires aim. The 'Western Toilet' requires trust in hygiene.",
+    "language": "english"
+  },
+  {
+    "id": 946,
+    "joke": "I went to a 'Mall'. I bought nothing. I enjoyed the AC. Success.",
+    "language": "english"
+  },
+  {
+    "id": 947,
+    "joke": "The 'Uber Driver' calls. 'Where are you?'. 'On the map'. 'Tell me landmark'. 'A cow is standing here'.",
+    "language": "english"
+  },
+  {
+    "id": 948,
+    "joke": "My dad thinks 'Dark Mode' saves 90% battery. He lives in darkness.",
+    "language": "english"
+  },
+  {
+    "id": 949,
+    "joke": "The 'Street Dog' howls at 3 AM. He is singing the song of his people.",
+    "language": "english"
+  },
+  {
+    "id": 950,
+    "joke": "I tried to make 'Chai'. It boiled over. The stove is a mess. Mom is angry.",
+    "language": "english"
+  },
+  {
+    "id": 951,
+    "joke": "The 'Bank' queue is long. One counter is open. The staff is having tea.",
+    "language": "english"
+  },
+  {
+    "id": 952,
+    "joke": "My mom saves 'Wrapping Paper'. She irons it. It is new again.",
+    "language": "english"
+  },
+  {
+    "id": 953,
+    "joke": "The 'Bus' stops. We jump. It is a leap of faith.",
+    "language": "english"
+  },
+  {
+    "id": 954,
+    "joke": "I asked for 'Discount'. The shopkeeper laughed. I paid full price.",
+    "language": "english"
+  },
+  {
+    "id": 955,
+    "joke": "The 'Laptop' heats up. It is a heater in winter.",
+    "language": "english"
+  },
+  {
+    "id": 956,
+    "joke": "My dad's 'Ring Tone' is a loud bell. It sounds like a fire alarm.",
+    "language": "english"
+  },
+  {
+    "id": 957,
+    "joke": "The 'Street Light' flickers. It is spooky.",
+    "language": "english"
+  },
+  {
+    "id": 958,
+    "joke": "I tried to 'Fix' the tap. I broke it. Water everywhere.",
+    "language": "english"
+  },
+  {
+    "id": 959,
+    "joke": "The 'Train' smells of pickle. It is a familiar scent.",
+    "language": "english"
+  },
+  {
+    "id": 960,
+    "joke": "My mom says 'Good Night'. Then she cleans the kitchen for an hour.",
+    "language": "english"
+  },
+  {
+    "id": 961,
+    "joke": "The biggest fear in Indian society is not death or taxes. It is 'Log Kya Kahenge?' (What will people say?).",
+    "language": "english"
+  },
+  {
+    "id": 962,
+    "joke": "I paid Rs. 20 via UPI. The processing circle spun for 10 seconds. My heart rate went up to 180. Financial anxiety.",
+    "language": "english"
+  },
+  {
+    "id": 963,
+    "joke": "The 'Mukhwas' (Fennel seeds) at the restaurant exit is the main course. We eat it by the handful.",
+    "language": "english"
+  },
+  {
+    "id": 964,
+    "joke": "My dad thinks 'Old Monk' is a medicine. 'Cold? Old Monk. Cough? Old Monk. Heartbreak? Old Monk.'",
+    "language": "english"
+  },
+  {
+    "id": 965,
+    "joke": "IST does not stand for Indian Standard Time. It stands for 'Indian Stretchable Time'. 5 PM means 6:30 PM.",
+    "language": "english"
+  },
+  {
+    "id": 966,
+    "joke": "My mom removed my 'Nazar' (Evil Eye) with salt and red chilies. I don't know if it worked, but the kitchen air made me cough for an hour.",
+    "language": "english"
+  },
+  {
+    "id": 967,
+    "joke": "My dad on WhatsApp: *Typing for 10 minutes*... *Typing stops*... *Typing resumes*... Message received: 'Ok'.",
+    "language": "english"
+  },
+  {
+    "id": 968,
+    "joke": "I did Engineering to get a job. Now I use my degree as a mousepad. It has excellent surface friction.",
+    "language": "english"
+  },
+  {
+    "id": 969,
+    "joke": "Asking for 'Extra Sambar' at a South Indian restaurant is not a request. It is a birthright.",
+    "language": "english"
+  },
+  {
+    "id": 970,
+    "joke": "Leaving a 'Family WhatsApp Group' is impossible. It is like trying to leave the Hotel California.",
+    "language": "english"
+  },
+  {
+    "id": 971,
+    "joke": "In India, everyone is 'Bhaiya' (Brother). The driver, the shopkeeper, the stranger, the guy stealing your parking spot. Everyone.",
+    "language": "english"
+  },
+  {
+    "id": 972,
+    "joke": "We ask the price of things we have zero intention of buying. 'Bhaiya, how much is this generator?'. Just for market research.",
+    "language": "english"
+  },
+  {
+    "id": 973,
+    "joke": "Using a phone in an Indian Toilet is an extreme sport. One slip, and your digital life goes down the drain.",
+    "language": "english"
+  },
+  {
+    "id": 974,
+    "joke": "I didn't have my morning Chai. Now I have a headache that requires an MRI scan. Addiction is real.",
+    "language": "english"
+  },
+  {
+    "id": 975,
+    "joke": "I saw a 'Fixed Price' shop. I still asked for a discount. The shopkeeper sighed. I sighed. It is tradition.",
+    "language": "english"
+  },
+  {
+    "id": 976,
+    "joke": "The Remote battery is dead. I rolled the cells. I bit the cells. I swapped their positions. It works now. Magic.",
+    "language": "english"
+  },
+  {
+    "id": 977,
+    "joke": "Shopkeeper: 'May I help you?'. Me: 'No, just looking'. (I am actually checking the price tag to see if I can afford to breathe here).",
+    "language": "english"
+  },
+  {
+    "id": 978,
+    "joke": "Indian Guest Rule: When offered water, refuse first. Then accept it reluctantly. Then drink the whole glass because it's 40 degrees outside.",
+    "language": "english"
+  },
+  {
+    "id": 979,
+    "joke": "I bought a toothbrush because it came with a 'Free Tongue Cleaner'. Marketing genius.",
+    "language": "english"
+  },
+  {
+    "id": 980,
+    "joke": "The Metro announcement says 'Doors Closing'. People rush in faster. The door is a challenge.",
+    "language": "english"
+  },
+  {
+    "id": 981,
+    "joke": "My order says 'Out for Delivery'. I am standing at the balcony like Juliet waiting for Romeo.",
+    "language": "english"
+  },
+  {
+    "id": 982,
+    "joke": "My mom has a secret stash of cash in the rice container. It is the family's emergency fund/central bank.",
+    "language": "english"
+  },
+  {
+    "id": 983,
+    "joke": "When my dad sneezes, car alarms in the parking lot go off. It is a sonic boom.",
+    "language": "english"
+  },
+  {
+    "id": 984,
+    "joke": "I lost a Tupperware bottle in school in 2005. My mom still brings it up in arguments in 2025.",
+    "language": "english"
+  },
+  {
+    "id": 985,
+    "joke": "Power Cut happens. Entire neighborhood comes to the balcony. 'Tumhare yahan bhi gayi?' (Is yours gone too?). Solidarity.",
+    "language": "english"
+  },
+  {
+    "id": 986,
+    "joke": "Relatives asked 'Is there scope in this field?'. I said 'There is scope everywhere if you are not lazy'. They stopped visiting.",
+    "language": "english"
+  },
+  {
+    "id": 987,
+    "joke": "I went to a wedding. I didn't see the Bride or Groom. I went straight to the Butter Naan counter. Priorities.",
+    "language": "english"
+  },
+  {
+    "id": 988,
+    "joke": "The Indian motto for solving problems: 'Chalta Hai' (It's okay/It works). The roof is leaking? Put a bucket. Chalta hai.",
+    "language": "english"
+  },
+  {
+    "id": 989,
+    "joke": "A dog chased my bike. I accelerated. He accelerated. I realized he is my personal trainer.",
+    "language": "english"
+  },
+  {
+    "id": 990,
+    "joke": "Guests arrived. My mom made me recite a poem I learned in 2nd grade. I am 24 years old.",
+    "language": "english"
+  },
+  {
+    "id": 991,
+    "joke": "The Auto Meter is just a decoration item. Like a chandelier. It looks nice but serves no functional purpose.",
+    "language": "english"
+  },
+  {
+    "id": 992,
+    "joke": "My friend said 'Bas 2 min mein pahuncha' (Reaching in 2 mins). He hasn't even taken a bath yet.",
+    "language": "english"
+  },
+  {
+    "id": 993,
+    "joke": "The Fan Regulator has numbers 1 to 5. But it only has two speeds: 'Turtle' and 'Hurricane'.",
+    "language": "english"
+  },
+  {
+    "id": 994,
+    "joke": "The Shampoo bottle is empty. I put water in it. Now I have 'Diluted Shampoo'. Infinite supply hack.",
+    "language": "english"
+  },
+  {
+    "id": 995,
+    "joke": "We squeeze the toothpaste tube until it begs for mercy. We roll it, flatten it, and threaten it to give the last drop.",
+    "language": "english"
+  },
+  {
+    "id": 996,
+    "joke": "I finally met 'Sharmaji Ka Beta'. He is also unemployed and confused. The legend was a lie.",
+    "language": "english"
+  },
+  {
+    "id": 997,
+    "joke": "My mom negotiated with the vegetable vendor for 10 minutes to save Rs. 5. Then she gave Rs. 20 to a beggar. It's not about money, it's about the game.",
+    "language": "english"
+  },
+  {
+    "id": 998,
+    "joke": "The Traffic Signal timer shows 3 seconds. Everyone revs their engines like it is the start of a Formula 1 race.",
+    "language": "english"
+  },
+  {
+    "id": 999,
+    "joke": "In a crowded bus, there is always room for one more. 'Thoda adjust karlo' (Please adjust a little) defies the laws of physics.",
+    "language": "english"
+  },
+  {
+    "id": 1000,
+    "joke": "Why is Indian humor the best? Because we can laugh at our parents, our politicians, our traffic, and our tragedy, all while drinking a hot cup of chai.",
+    "language": "english"
+  }
+]
