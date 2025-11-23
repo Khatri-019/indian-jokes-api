@@ -19,13 +19,14 @@ const jokes = {
 // Root route
 app.get("/", (req, res) => {
   res.json({
-    message: "Welcome to the Indian Jokes API",
+    message: "Welcome to the Indian Jokes API ",
     routes: {
       english: "/jokes/english",
       hindi: "/jokes/hindi",
       kannada: "/jokes/kannada",
       random: "/jokes/random"
-    }
+    },
+    git: "https://github.com/Khatri-019/indian-jokes-api"
   });
 });
 
